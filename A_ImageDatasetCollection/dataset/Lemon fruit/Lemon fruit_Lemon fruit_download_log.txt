@@ -1,0 +1,171 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Lemon fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://cdn.britannica.com/84/188484-050-F27B0049/lemons-tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://www.thespruceeats.com/thmb/-EUlIYa48XZTiQgfWISz4UBQq18=/2048x1463/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1132020307-176f30aecb1a437ea2be78c12298f4b2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://www.tastingtable.com/img/gallery/31-types-of-lemons-and-what-makes-them-unique/l-intro-1656086555.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://cdn.britannica.com/04/75904-050-B8D600E6/Lemons-tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://www.wallpaperbetter.com/wallpaper/589/824/29/lemon-fruit-free-hd-widescreen-1080P-wallpaper.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://cdn.pixabay.com/photo/2022/04/26/09/44/lemons-7157953_1280.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://www.schoolphotoproject.com/_picture-of-fruits/lemon-photo1-l.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://www.nature-and-garden.com/wp-content/uploads/sites/4/2018/10/lemon-tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://static.pexels.com/photos/66261/lemon-orange-fruit-citrine-66261.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://thumbs.dreamstime.com/z/fresh-lemon-fruit-leaves-isolated-white-raw-89130046.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://thumbs.dreamstime.com/z/half-lemon-fruit-slice-isolated-white-perfectly-retouched-sliced-background-clipping-path-one-best-lemons-slices-113079630.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from http://st.depositphotos.com/2075661/4142/i/950/depositphotos_41425985-stock-photo-lemon-fruit-slice-isolated.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://thumbs.dreamstime.com/b/lemon-fruit-slice-isolated-white-perfectly-retouched-background-clipping-path-one-best-lemons-slices-you-have-114004067.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://thumbs.dreamstime.com/z/half-lemon-fruit-slice-isolated-white-perfectly-retouched-sliced-background-clipping-path-one-best-lemons-slices-117090800.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://thumbs.dreamstime.com/b/perfectly-retouched-lemon-fruit-slice-isolated-white-background-clipping-path-one-best-lemons-slices-you-have-115607683.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://media.istockphoto.com/photos/lemon-fruit-slice-circle-isolated-on-white-picture-id472148208?k=6&amp;m=472148208&amp;s=612x612&amp;w=0&amp;h=ofPgAocPKJlW_7-u6lLwhpXwxF_P0nRNj_WoXhpVPzs=
+[!] Issue getting: https://media.istockphoto.com/photos/lemon-fruit-slice-circle-isolated-on-white-picture-id472148208?k=6&amp;m=472148208&amp;s=612x612&amp;w=0&amp;h=ofPgAocPKJlW_7-u6lLwhpXwxF_P0nRNj_WoXhpVPzs=
+[!] Error:: HTTP Error 400: Bad Request
+[%] Downloading Image #16 from https://thumbs.dreamstime.com/b/lemon-fruit-slice-isolated-white-background-clipping-path-lemon-fruit-slice-110847699.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://thumbs.dreamstime.com/b/lemon-fruit-slice-isolated-white-lemon-fruit-slice-isolated-white-background-219183229.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://thumbs.dreamstime.com/z/slice-lemon-fruit-isolated-38113106.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://thumbs.dreamstime.com/z/lemon-fruit-slice-lemon-fruit-slice-isolated-white-background-clipping-path-110735091.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://jooinn.com/images/lemon-slice-4.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://www.shutterstock.com/shutterstock/photos/250783840/display_1500/stock-photo-lemon-fruit-slice-isolated-on-white-250783840.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://c8.alamy.com/comp/AHMY4F/lemon-fruit-slice-close-up-AHMY4F.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://thumbs.dreamstime.com/z/lemon-fruit-slice-isolated-white-background-clipping-path-lemon-fruit-slice-110413662.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://static.vecteezy.com/system/resources/previews/020/523/110/original/fresh-sliced-lemon-fruits-isolated-png.png
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://thumbs.dreamstime.com/z/lemon-fruit-slice-lemon-fruit-slice-leaf-isolated-white-background-109909306.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://thumbs.dreamstime.com/z/lemon-fruit-slice-sliced-yellow-citrus-limon-vegetarian-food-145696671.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://thumbs.dreamstime.com/z/lemon-fruit-slice-two-slices-white-background-144263186.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://thumbs.dreamstime.com/b/lemon-fruit-slice-sliced-yellow-citrus-limon-vegetarian-food-143838925.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://static.vecteezy.com/system/resources/previews/023/987/520/original/green-lemon-fruit-slice-image-free-png.png
+[%] File Downloaded !
+
+[%] Downloading Image #30 from http://cdn.kdhamptons.com/wp-content/uploads/2020/03/27160741/IMG_0356.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://www.gardeningknowhow.com/wp-content/uploads/2021/03/lemon-tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://housefur.com/wp-content/uploads/2021/03/etsy-meyer-lemon-tree-1536x1536.jpg
+[!] Issue getting: https://housefur.com/wp-content/uploads/2021/03/etsy-meyer-lemon-tree-1536x1536.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #32 from https://img.sunset02.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/image/2016/09/main/meyer-lemons-0310.jpg?itok=M7-KTY8C
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://www.progardentips.com/wp-content/uploads/2020/01/Eureka-lemon-1648x2048.jpg
+[!] Issue getting: https://www.progardentips.com/wp-content/uploads/2020/01/Eureka-lemon-1648x2048.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #33 from https://www.yarden.com/wp-content/uploads/2018/08/Dwarf-Meyer-Lemon-Tree-01.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://www.thetreecenter.com/wp-content/uploads/2014/06/meyer-lemon-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from http://starkbros.com/images/dynamic/2238-960x960.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://www.thespruce.com/thmb/rmlXUH96NF1DPe1UJV6vsvdFZUA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/lemon-tree-plant-profile-4846327-3-b9b35325794c465f962a5f472bc8a6b2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://i.pinimg.com/originals/34/3b/da/343bdae6aca4f8d4e03f286e0abab5a8.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://www.starkbros.com/images/dynamic/5657-560x560-fillv.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://thumbs.dreamstime.com/b/lemon-fruit-tree-fresh-91184231.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://www.lovethegarden.com/sites/default/files/content/articles/UK_lemon-tree-in-blossom.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://www.gardeningknowhow.com/wp-content/uploads/2020/11/ripe-lemons-on-lemon-tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from http://ashevillegardener.com/wp-content/uploads/2023/11/IMG_6717.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://i.ytimg.com/vi/DooPww-e8Xk/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://usercontent2.hubstatic.com/9629795.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.thetutuguru.com.au/wp-content/uploads/2014/01/Dwarf-Meyer-Lemon-Tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://images.bonanzastatic.com/afu/images/5c85/b5e1/2e17_4909629890/rm-giant-lemon-yellow-fruit-tree-seeds-20-seeds-professional-pack-organic-big-fruits-home-garden.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://get.pxhere.com/photo/plant-fruit-aroma-orange-food-produce-lemonade-drink-health-lemon-energy-juice-refreshment-the-sun-citrus-impression-brightness-soft-drink-flowering-plant-joy-of-life-rays-of-the-sun-vitamin-c-fruit-juice-the-addition-of-energy-boost-juicy-citrus-land-plant-lemon-lime-lemon-juice-glare-of-the-sun-a-glass-of-juice-1043427.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://www.recipevibes.com/wp-content/uploads/2021/03/lemon-juice-pic.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://www.thespruceeats.com/thmb/Feq9edZe9ursYVE1UObTORrJzIs=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/HowTo-JuiceLemons-2-56a174455f9b58b7d0bf6bcd.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://assets.epicurious.com/photos/54e658004f77a310045d66d4/16:9/w_2560%2Cc_limit/6x4.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

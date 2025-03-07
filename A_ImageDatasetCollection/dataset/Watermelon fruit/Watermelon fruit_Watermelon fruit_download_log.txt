@@ -1,0 +1,168 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Watermelon fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://www.thespruce.com/thmb/GsHKn6UTIN2HP67QZBnOH4CV3fk=/2268x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grow-watermelons-1403491-05-fccc4e544a5c48d2a1e90686bfc64a20.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://www.thespruceeats.com/thmb/AiRgtd0se0G-ySlqkPUCbSnUfI8%3d/2001x1501/filters:fill(auto%2c1)/GettyImages-141859959-56a499555f9b58b7d0d7bca0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://cdn.britannica.com/99/143599-050-C3289491/Watermelon.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://c1.peakpx.com/wallpaper/801/248/1018/fruit-watermelons-healthy-food-fresh-wallpaper-preview.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://media.glamourmagazine.co.uk/photos/6138ac5b5341d7d4e342c023/master/w_1600,c_limit/watermelon-glamour-3june16-getty-b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://facts.net/wp-content/uploads/2020/11/AdobeStock_174975391-1024x683.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://www.thespruce.com/thmb/fghCcR0Sv_lrSIg1mVWS9U-b_ts=/4002x0/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-grow-watermelons-1403491-hero-2d1ce0752fed4ed599db3ba3b231f8b7.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://cdn.lifehack.org/wp-content/uploads/2014/08/5427691534_d2eeab1207_o.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://cdn.pixabay.com/photo/2013/01/08/01/25/watermelon-74342_1280.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from http://draxe.com/wp-content/uploads/2015/05/bigstock-Sliced-Ripe-Watermelon-72055993.jpg
+[!] Issue getting: http://draxe.com/wp-content/uploads/2015/05/bigstock-Sliced-Ripe-Watermelon-72055993.jpg
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #10 from https://static.fanpage.it/wp-content/uploads/sites/22/2020/06/iStock-1141268671.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://abcnews.go.com/images/Lifestyle/HT_watermelon_carvings_mar_20140703_0_8x7_1600.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from http://www.incrediblesnaps.com/wp-content/uploads/2014/10/Watermelon-Carving-5.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://www.tasteofhome.com/wp-content/uploads/2018/01/Watermelon-Shark_exps143376_SD2401786C10_18_3bC_RMS.jpg?resize=1024
+[%] File Downloaded !
+
+[%] Downloading Image #14 from http://www.incrediblesnaps.com/wp-content/uploads/2014/10/Watermelon-Carving-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://i.dailymail.co.uk/1s/2021/04/21/21/42054636-0-image-a-57_1619038517298.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://i.pinimg.com/originals/cd/f4/d7/cdf4d7bca1c17ea5a5ac7985d97d0e3a.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://thegardeningcook.com/wp-content/uploads/2014/09/watermelon-carving-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from http://4.bp.blogspot.com/-KDOIL42GuQ0/Ud22NuHoiOI/AAAAAAAALtU/-a-2hz4hjJg/s1600/IMGP6873.JPG
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://s.abcnews.com/images/Lifestyle/HT_watermelon_carvings_mar_20080628_2_4x3_1600.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://i.pinimg.com/originals/60/34/8f/60348fce105b90e710f186483cb3fcce.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://i.pinimg.com/originals/ed/04/f7/ed04f72d1abfeff1e56f9a49c9dcd1ce.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://i.pinimg.com/originals/76/06/73/7606734fb88c8c45c1a290a6cf6c2bf9.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://i.pinimg.com/originals/8f/72/eb/8f72eb8468b5d57d32998371c4ed7a29.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://i.pinimg.com/originals/a3/85/51/a3855159bac8af7d7ba347b22ae048bb.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://i.pinimg.com/originals/fe/41/e8/fe41e87a35bc68e26e6f3d8b8f40cdbd.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://c8.alamy.com/comp/D4WPF6/watermelon-thai-fruit-carving-isolated-on-white-D4WPF6.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://1.bp.blogspot.com/-uWGVX2WZA5Q/WWQjHl3hL9I/AAAAAAAAJhI/L-9RIFjjy7Qv8BSJ_fsmQ0Rm5e9hAjqBQCLcBGAs/s1600/IMG_0849_1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://i.pinimg.com/736x/98/b7/6c/98b76ccbfc5c4554ea674dbc1c15cf70.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://i.pinimg.com/originals/ab/22/75/ab2275d52164a7846748e34e3adf2838.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://i.pinimg.com/originals/87/af/62/87af62a0c0e3ed79bad3f80e01d54b0d.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://www.netmeds.com/images/cms/wysiwyg/blog/2019/04/Healing_Benefits_Of_Watermelon_Infographics_1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://parentcircle.blob.core.windows.net/prd/content/ca65f25a34c1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://i.pinimg.com/originals/07/73/2e/07732e72ac870018e01bf23c075ce9a3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://kdahweb-static.kokilabenhospital.com/kdah-admin2016/tips/5ad042fe346e430716553_1752127154845464_5821025280635895907_n.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://2.bp.blogspot.com/-spv_8uIfbq4/WfW5N8KIItI/AAAAAAAAxHo/iphLzizSy_kFgaoFt9ZzKwyvjaxRUDSjgCLcBGAs/s1600/watermeloninfo02.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://i.pinimg.com/originals/80/75/49/8075496d027a0bc64ef61c9303af4d70.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://livelovefruit.com/wp-content/uploads/2015/10/watermelon-benefits.png
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://i.ytimg.com/vi/AaEcw2kYxMg/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://www.timeslifestyle.net/wp-content/uploads/2018/04/Benefits-of-Watermelon-780x780-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://i.pinimg.com/originals/40/55/18/4055181a16588efcc3fb38c1c8640906.png
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://pbs.twimg.com/media/FZz2mjOaMAAMh-X?format=jpg&amp;name=large
+[!] Issue getting: https://pbs.twimg.com/media/FZz2mjOaMAAMh-X?format=jpg&amp;name=large
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #41 from https://i.pinimg.com/originals/86/18/96/8618968cdcf255a2ffa4cba1d08a2501.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://www.healyounaturally.com/wp-content/uploads/2018/07/7-health-benefits-watermelon.png
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://jaydiva.com/wp-content/uploads/2019/10/7-health-benefits-of-watermelon.png
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://wordpresscmsprodstor.blob.core.windows.net/wp-cms/2022/05/30-4-scaled.webp
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://cdn.statically.io/img/i.pinimg.com/originals/ff/9c/24/ff9c24348b2acecd9f5885370f8fdb6b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://i.pinimg.com/originals/4a/18/71/4a18719491e46cc743a0c80ac410981e.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://www.shutterstock.com/shutterstock/photos/302889101/display_1500/stock-vector--health-benefits-information-of-watermelon-nutrients-infographic-vector-illustration-stock-302889101.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://consumer.org.my/wp-content/uploads/2023/11/7-Nov-2023-Watermelon.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://i.ytimg.com/vi/eahPxrFKNxk/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://img.emedihealth.com/wp-content/uploads/2020/09/watermelon-seeds-benefits-feat.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

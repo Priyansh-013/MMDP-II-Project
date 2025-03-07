@@ -1,0 +1,173 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Papaya fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 35 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://insanelygoodrecipes.com/wp-content/uploads/2023/02/Fresh-Organic-Papaya-Fruit-1024x1024.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://healthjade.com/wp-content/uploads/2017/12/Papaya.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://static.vecteezy.com/system/resources/previews/014/232/626/large_2x/papaya-fruits-on-yellow-backgroud-fresh-ripe-papaya-slice-tropical-fruit-with-papaya-seed-and-leaf-leaves-from-papaya-tree-free-photo.JPG
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://i1.wp.com/www.healthfitnessrevolution.com/wp-content/uploads/2015/11/iStock-177546268.jpg?fit=1934%2C1550&amp;ssl=1
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://cdn.britannica.com/31/157531-050-25D8087E/Papaya-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://www.thespruceeats.com/thmb/PPYSyTlY2_ISOwuQXnL5xlVPDfY=/1500x1035/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-914617584-3db6c4fb1f314e688b9593c83cf0a2dc.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://static.toiimg.com/photo/87935234.cms
+[%] File Downloaded !
+
+[%] Downloading Image #8 from http://2.bp.blogspot.com/-fxadAknr--E/UpgZ0poSyBI/AAAAAAAABxU/oCMldzw3Isw/s1600/pappaya+copy.jpg#papaya fruit 1000x1096
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://www.verywellfit.com/thmb/VOy-WI0B4Cu85iQ-cSIdA7Y6jP4=/4368x2912/filters:fill(FFDB5D,1)/GettyImages-182808158-582c9ff25f9b58d5b1fc2fff.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://www.masala.com/public/images/2019/12/18/papaya.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://img.freepik.com/premium-photo/papaya-fruits-yellow-backgroud-fresh-ripe-papaya-slice-tropical-fruit-with-papaya-seed-leaf-leaves-from-papaya-tree-top-view_73523-7771.jpg?w=2000
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://agfl.com.au/wp-content/uploads/2023/03/What-Is-Papaya.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://www.gardeningknowhow.com/wp-content/uploads/2020/05/papaya.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://cebudailynews.inquirer.net/files/2020/04/Canva-Exotic-Papaya-Fruit-over-Tropical-Green-.jpg
+[!] Issue getting: https://cebudailynews.inquirer.net/files/2020/04/Canva-Exotic-Papaya-Fruit-over-Tropical-Green-.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #14 from https://img.freepik.com/premium-photo/papaya-fruit_1080029-21.jpg?w=2000
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://hips.hearstapps.com/hmg-prod/images/papaya-fruit-royalty-free-image-1690494910.jpg?crop=0.66635xw:1xh;center,top&amp;resize=980:*
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://www.gardeningknowhow.com/wp-content/uploads/2012/06/grow-papaya.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://jooinn.com/images/sliced-papaya-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://images.news18.com/ibnlive/uploads/2023/01/shutterstock_1528885094.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://s3-us-west-2.amazonaws.com/s3.laprensa.com.ni-bq/wp-content/uploads/2017/11/11134241/ThinkstockPhotos-515832816.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from http://www.healthyfoodhouse.com/wp-content/uploads/2013/06/papaya-for-rejuvenation-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://c8.alamy.com/comp/HN6Y0A/papaya-fruit-cut-open-HN6Y0A.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://www.econutrena.com/wp-content/uploads/2022/04/papaya-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://www.terrabellaseniorliving.com/wp-content/uploads/2022/01/sliced-half-ripe-papaya-fruit-on-wood-background.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://sicarfarms.com/wp-content/uploads/2021/02/Papaya.png
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://www.cord360.com/Data/Images/62/ProductImage/yellow-papaya.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://wallpapers.com/images/file/fresh-papaya-fruit-white-background-9yh1issk8phssfkj.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://jooinn.com/images/papaya-fruit-cut-in-half.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://5.imimg.com/data5/DM/BM/MY-46595757/papaya-281kg-29.png
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://png.pngtree.com/png-clipart/20231011/original/pngtree-fresh-papaya-fruit-slices-isolated-png-image_13294371.png
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://insanelygoodrecipes.com/wp-content/uploads/2023/02/Fresh_Organic_Papaya_Fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://nomadparadise.com/wp-content/uploads/2020/09/asian-fruit-papaya.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://www.kandyfreshfruits.com/wp-content/uploads/2013/06/papaya1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://www.healthieryou.in/wp-content/uploads/2015/05/PAPAYA.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://thumbs.dreamstime.com/b/papaya-fruits-wooden-backgroud-fresh-ripe-tropical-fruit-seed-leaf-leaves-tree-260233805.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 2
+
+[%] Indexed 95 Images on Page 2.
+
+===============================================
+
+[%] Downloading Image #35 from http://balconygardenweb.com/wp-content/uploads/2016/01/how-to-grow-papaya.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://www.gardeningknowhow.com/wp-content/uploads/2012/06/grow-papaya-1536x1152.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://balconygardenweb.b-cdn.net/wp-content/uploads/2022/07/Everything-About-Growing-a-Papaya-Tree2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://naturebring.com/wp-content/uploads/2017/07/Papaya-nb045455478.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://www.tropicalpermaculture.com/images/growing-papayas2.jpg.pagespeed.ce.vRXG2jmH3Q.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://www.housedigest.com/img/gallery/how-to-successfully-grow-a-papaya-tree/intro-1648040612.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://www.naturebring.com/wp-content/uploads/2017/07/Dwarf-Papaya-01.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://plantura.garden/uk/wp-content/uploads/sites/2/2022/07/papaya-trees-fruiting.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://balconygardenweb.com/wp-content/uploads/2016/01/how-to-grow-papaya-in-pot-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://media.visualstories.com/uploads/images/1/20/5257389-1280_872721470-1543523_l.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.herbazest.com/imgs/7/7/a/431605/growing_papaya.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://i.ytimg.com/vi/iUceYy_ZZJA/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://i.ytimg.com/vi/WUtdafIBPrM/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from http://cdn.shopify.com/s/files/1/0579/7924/0580/articles/shutterstock_614760452.jpg?v=1661867330
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://www.tropicalpermaculture.com/images/growing-papayas.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://balconygardenweb.b-cdn.net/wp-content/uploads/2021/05/papaya-in-pot.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

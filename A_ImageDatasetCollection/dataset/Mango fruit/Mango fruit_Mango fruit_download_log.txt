@@ -1,0 +1,192 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Mango fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://mangomaven.com/wp-content/uploads/2020/05/Alphonso-Mango-1536x916.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from http://www.modernthrill.com/wp-content/uploads/2015/06/Mangoes.jpg
+[!] Issue getting: http://www.modernthrill.com/wp-content/uploads/2015/06/Mangoes.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #2 from https://media.istockphoto.com/photos/mango-picture-id529964085?k=6&amp;m=529964085&amp;s=612x612&amp;w=0&amp;h=pvpVxtWRPJU5051c6KNnBL-v3KqmBCNSWRQfMSW9FL4=
+[!] Issue getting: https://media.istockphoto.com/photos/mango-picture-id529964085?k=6&amp;m=529964085&amp;s=612x612&amp;w=0&amp;h=pvpVxtWRPJU5051c6KNnBL-v3KqmBCNSWRQfMSW9FL4=
+[!] Error:: HTTP Error 400: Bad Request
+[%] Downloading Image #2 from https://cdn.britannica.com/05/75905-050-C7AE0733/Mangoes-tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://foodprint.org/wp-content/uploads/2018/10/AdobeStock_116749966_1920x960_RFE.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://www.gannett-cdn.com/-mm-/7cc8708fb3d2ff285b4c9ff38ae34d16c095d2ae/c=0-44-849-522/local/-/media/2015/08/18/PalmSprings/B9318468562Z.1_20150818140510_000_G8JBKOFRD.1-0.jpg?width=3200&amp;height=1680&amp;fit=crop
+[!] Issue getting: https://www.gannett-cdn.com/-mm-/7cc8708fb3d2ff285b4c9ff38ae34d16c095d2ae/c=0-44-849-522/local/-/media/2015/08/18/PalmSprings/B9318468562Z.1_20150818140510_000_G8JBKOFRD.1-0.jpg?width=3200&amp;height=1680&amp;fit=crop
+[!] Error:: HTTP Error 406: Not Acceptable
+[%] Downloading Image #4 from https://static.vecteezy.com/system/resources/previews/022/825/532/original/mango-fruit-mango-on-transparent-background-png.png
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://as1.ftcdn.net/v2/jpg/01/87/65/46/1000_F_187654684_ScVTIc0odtqtWsBLp0oTMprDvqTu9VQR.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://c8.alamy.com/comp/2A0XJFT/isolated-mango-two-yellow-mango-fruit-hanging-on-a-tree-branch-isolated-on-white-background-with-clipping-path-2A0XJFT.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from http://wallsdesk.com/wp-content/uploads/2017/01/Mango-Photos.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from http://www.karimdavid.com/wp-content/uploads/2020/06/MANGO.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://mangomaven.com/wp-content/uploads/2020/05/Keitt-1024x974.png
+[!] Issue getting: https://mangomaven.com/wp-content/uploads/2020/05/Keitt-1024x974.png
+[!] Error:: IncompleteRead(842837 bytes read, 627595 more expected)
+[%] Downloading Image #9 from https://www.butter-n-thyme.com/wp-content/uploads/2022/12/types-of-mango.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://sukhis.com/app/uploads/2022/09/image3-900x623.png
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://i.redd.it/tu3bklyvlxu41.jpg
+[Error]Invalid image, not saving https://i.redd.it/tu3bklyvlxu41.jpg
+
+[!] Issue getting: https://i.redd.it/tu3bklyvlxu41.jpg
+[!] Error:: Invalid image, not saving https://i.redd.it/tu3bklyvlxu41.jpg
+
+[%] Downloading Image #11 from https://northernnester.com/wp-content/uploads/2021/02/popular-types-of-mangoes.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://tousgarden.com.au/wp-content/uploads/2020/08/70758736_2490461597657637_1069467305043296256.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://indiachronicles.com/wp-content/uploads/2020/06/mango-fruit-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://indiachronicles.com/wp-content/uploads/2020/06/mango-fruit-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://indsamachar.com/wp-content/uploads/2021/06/IMG_20210609_074338-2048x1075.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://asian-recipe.com/wp-content/uploads/2022/07/Different-Types-Of-Mango-Varieties-With-Images-e1656935992404.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://indiachronicles.com/wp-content/uploads/2022/05/best-mango-india.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://brookstropicals.com/wp-content/uploads/2019/06/varieties-1240x1736.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://mangoking.com.au/blog/wp-content/uploads/2023/03/7xm.xyz314879.jpg
+[!] Issue getting: https://mangoking.com.au/blog/wp-content/uploads/2023/03/7xm.xyz314879.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #19 from https://imgnew.outlookindia.com/public/uploads/articles/2019/6/1/mango.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from http://1.bp.blogspot.com/-L6TKsMbUgpU/VUIkUrvTNVI/AAAAAAAAlNc/6nTz1tgY7r0/s1600/mango2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://static.toiimg.com/photo/69185542.cms
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://www.frutasmontosa.com/en/wp-content/uploads/2018/03/mango_variedades_header.jpg
+[!] Issue getting: https://www.frutasmontosa.com/en/wp-content/uploads/2018/03/mango_variedades_header.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #22 from https://s.yimg.com/uu/api/res/1.2/ld9Z9iKb0E0wIEj5jSkJsg--~B/aD0zNDU2O3c9NTE4NDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-04/94babd10-8134-11ea-abeb-f5f66c31c498
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1057927583_20190626141915.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://www.thespruce.com/thmb/B8BmZ1HGWugUJ4HWULwI8qa-u8w=/3691x2462/filters:no_upscale():max_bytes(150000):strip_icc()/grow-mango-seeds-1902625-04-ad10ef4af2b34ca68c3bf240a04a3cff.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://www.thespruce.com/thmb/ztfZr7loyylN5Qc2a974Oy_dJbQ=/4206x2805/filters:fill(auto,1)/grow-mango-seeds-1902625-hero-f222c4c0a3ad4b24a70948ddcec9e5e6.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://www.thespruce.com/thmb/3XBiGtfEHvwuwuzO5ZKpSMf61iQ=/4338x0/filters:no_upscale():max_bytes(150000):strip_icc()/grow-mango-seeds-1902625-05-73d31c720a0947cea796163d4d113869.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://www.thespruce.com/thmb/uBKjn4COKmTSc0DCy6hbQmi4rDA=/4255x2840/filters:no_upscale():max_bytes(150000):strip_icc()/grow-mango-seeds-1902625-03-2feda35ea8d9402ab3be40dd4cdd0d5c.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://png.pngtree.com/background/20230519/original/pngtree-mango-tree-with-ripe-fruit-on-it-picture-image_2665607.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://www.lovethegarden.com/sites/default/files/content/articles/uk/mango-fruit-ready-for-harvesting.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://www.thespruce.com/thmb/9ovI0aMbhI_VhNu4IiQZVyYgXE8=/1500x1034/filters:fill(auto,1)/mango-tree-321075_1920-e385ec8cf0d140258aa1374ab51b0ea0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://harvesttotable.com/wp-content/uploads/2019/11/Mango-bigstock-Tropical-Mango-Tree-With-Big-R-288199537-scaled.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://www.gardeningknowhow.com/wp-content/uploads/2012/05/mango.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://www.marthastewart.com/thmb/Bw7s5LHfLDGezX_4jwzRXs1c5DM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/grow-mang-from-seed-getty-0723-aebdd875c4e141e2b5183f8f4bccda55.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://www.housedigest.com/img/gallery/the-easiest-way-to-grow-a-mango-tree-from-seed/l-intro-1694215707.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://img.freepik.com/premium-photo/cultivation-tropical-fruit-trees-mango-garden-generative-ai_971989-2760.jpg?w=2000
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://thumbs.dreamstime.com/z/mango-tree-17752322.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://png.pngtree.com/thumb_back/fw800/background/20230519/pngtree-mango-tree-on-a-farm-in-india-image_2577918.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://img.freepik.com/premium-photo/mango-tree-full-mangoes_1020534-28.jpg?w=2000
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://i.redd.it/57j80wqjtsx21.jpg
+[Error]Invalid image, not saving https://i.redd.it/57j80wqjtsx21.jpg
+
+[!] Issue getting: https://i.redd.it/57j80wqjtsx21.jpg
+[!] Error:: Invalid image, not saving https://i.redd.it/57j80wqjtsx21.jpg
+
+[%] Downloading Image #39 from https://www.naturenursery.in/wp-content/uploads/2020/04/MANGO3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://get.pxhere.com/photo/mango-tree-nature-fruit-green-food-plant-fruit-tree-1455397.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://positivebloom.com/wp-content/uploads/2022/05/mango-tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://lmld.org/wp-content/uploads/2017/05/fresh-mango-salsa-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://www.cookclickndevour.com/wp-content/uploads/2019/06/mango-salad-recipe.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://www.eatingbirdfood.com/wp-content/uploads/2021/05/mango-smoothie-angle.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://i.pinimg.com/originals/40/0e/d5/400ed5027300d665bd296ff2d9ff28e2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://savoryspin.com/wp-content/uploads/2020/04/Easy-mango-chutney.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://insanelygoodrecipes.com/wp-content/uploads/2020/09/Mango-Dessert-Recipes-2.png
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://www.daringgourmet.com/wp-content/uploads/2013/03/Mango-Chutney-2-square-edit-scaled.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://insanelygoodrecipes.com/wp-content/uploads/2020/10/Mango-Recipes-4.png
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://insanelygoodrecipes.com/wp-content/uploads/2020/09/Mango-Dessert-Recipes-5.png
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

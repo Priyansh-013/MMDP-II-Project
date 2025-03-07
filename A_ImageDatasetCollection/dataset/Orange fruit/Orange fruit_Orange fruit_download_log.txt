@@ -1,0 +1,191 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Orange fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 35 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://cdn.pixabay.com/photo/2012/12/24/08/40/orange-72321_1280.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://images.pexels.com/photos/1937743/pexels-photo-1937743.jpeg?cs=srgb&amp;dl=bright-citrus-citrus-fruit-1937743.jpg&amp;fm=jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://healthjade.com/wp-content/uploads/2017/10/orange-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://media.ooreka.fr/public/image/orange_fruit_arbre_plante-source-12085669.jpg
+[!] Issue getting: https://media.ooreka.fr/public/image/orange_fruit_arbre_plante-source-12085669.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #4 from https://www.heythattastesgood.com/wp-content/uploads/2022/06/orange-fruits.jpg
+[Error]Invalid image, not saving https://www.heythattastesgood.com/wp-content/uploads/2022/06/orange-fruits.jpg
+
+[!] Issue getting: https://www.heythattastesgood.com/wp-content/uploads/2022/06/orange-fruits.jpg
+[!] Error:: Invalid image, not saving https://www.heythattastesgood.com/wp-content/uploads/2022/06/orange-fruits.jpg
+
+[%] Downloading Image #4 from https://wallpapercave.com/wp/wp2293595.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://www.wallpaperflare.com/static/568/991/763/oranges-citrus-fruits-fruit-fruits-wallpaper.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://www.gardeningknowhow.com/wp-content/uploads/2021/08/Orange-fruits.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://healthjade.com/wp-content/uploads/2017/10/Navel-oranges.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from http://3.bp.blogspot.com/-tVoQ9O2IU_E/UDzWrWgr2TI/AAAAAAAAIZ8/ojl3vvQ-XV8/s1600/Orange+Fruits+Wallpapers+1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://cdn.britannica.com/24/174524-050-A851D3F2/Oranges.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://www.wallpaperflare.com/static/568/497/158/orange-citrus-fruit-fruit-healthy-wallpaper.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://www.schoolphotoproject.com/_picture-of-fruits/orange-fruit-photo-l.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://www.thespruce.com/thmb/Cj6X4Xgny76lbalT1PltIPOXdDI=/2074x1446/filters:no_upscale():max_bytes(150000):strip_icc()/Orangetree-GettyImages-652206996-2b9aca77dd8449fe8bd48f4192b97545.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://prod-dovemed.s3.amazonaws.com/media/images/orange_fruit.original.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://www.wallpaperflare.com/static/190/523/765/tangerines-oranges-fruit-leaves-wallpaper.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://www.rd.com/wp-content/uploads/2017/12/01_oranges_Finally—Here’s-Which-“Orange”-Came-First-the-Color-or-the-Fruit_691064353_Lucky-Business.jpg
+[!] Issue getting: https://www.rd.com/wp-content/uploads/2017/12/01_oranges_Finally—Here’s-Which-“Orange”-Came-First-the-Color-or-the-Fruit_691064353_Lucky-Business.jpg
+[!] Error:: 'ascii' codec can't encode character '\u2014' in position 50: ordinal not in range(128)
+[%] Downloading Image #15 from http://images6.fanpop.com/image/photos/34500000/Orange-Fruit-orange-34512931-1620-1080.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://mealstudio.com/wp-content/uploads/2019/10/Orange-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://wallpapercave.com/wp/wp2293578.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://wallpapercave.com/wp/wp2293589.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://wallpapercave.com/wp/wp2293471.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://jooinn.com/images/orange-fruits-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://purepng.com/public/uploads/large/purepng.com-orange-orangesorangefruitbitter-orangeorangesclip-art-1701527336951ldrwe.png
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://wallpapercave.com/wp/wp2293518.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://png.pngtree.com/png-clipart/20220620/original/pngtree-hand-drawn-delicious-orange-fruit-clipart-in-psd-and-png-png-image_8137237.png
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://wallpapercave.com/wp/wp2293522.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from http://www.pngall.com/wp-content/uploads/2016/05/Orange-Free-PNG-Image.png
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://i.pinimg.com/originals/d4/b8/13/d4b8139a1419f06b699c94e34fa4f8a9.png
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://static.vecteezy.com/system/resources/previews/022/825/521/original/orange-fruit-orange-on-transparent-background-png.png
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://2.bp.blogspot.com/-BBL8AYimi1w/WlhSQfkPSmI/AAAAAAAAADM/1Ra60N3zxvAgt179RokFa6NY6TB9E_0fACEwYBhgL/s1600/orange.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://i0.wp.com/www.theayurveda.org/wp-content/uploads/2015/10/Orange-fruits-on-tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://purepng.com/public/uploads/large/purepng.com-orange-orangesorangefruitbitter-orangeorangesclip-art-1701527336574mtnk9.png
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://oliveoilcorfu.gr/wp-content/uploads/2019/09/orange_fruit_future.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://static8.depositphotos.com/1020804/884/i/950/depositphotos_8840885-stock-photo-orange-fruits-on-a-white.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 2
+
+[%] Indexed 95 Images on Page 2.
+
+===============================================
+
+[%] Downloading Image #33 from https://thumbs.dreamstime.com/z/slice-orange-citrus-fruit-isolated-white-top-view-ripe-background-clipping-path-132027465.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://thumbs.dreamstime.com/b/orange-fruit-slice-29295851.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://c1.wallpaperflare.com/preview/281/484/1020/orange-slice-juice-vitamin.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://cdn.pixabay.com/photo/2016/03/03/17/15/fruit-1234657_960_720.png
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://static.vecteezy.com/system/resources/previews/022/648/242/non_2x/orange-fruit-slice-isolated-on-transparent-background-png.png
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://thumbs.dreamstime.com/b/slice-orange-fruit-isolated-slice-orange-fruit-isolated-white-background-86257862.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://as1.ftcdn.net/v2/jpg/02/59/30/30/1000_F_259303005_ffaQQAKTXksbVhvwhRUvZ5Y6yylhEdsk.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from http://publicdomainpictures.net/pictures/60000/velka/slice-of-orange-fruit-1381087469pRM.jpg
+[!] Issue getting: http://publicdomainpictures.net/pictures/60000/velka/slice-of-orange-fruit-1381087469pRM.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #40 from https://thumbs.dreamstime.com/z/collection-orange-slices-four-different-angle-fruit-slice-isolated-white-background-clipping-path-fresh-raw-133570896.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://thumbs.dreamstime.com/z/orange-fruit-slice-isolated-perfectly-retouched-orange-fruit-slice-isolated-white-background-clipping-path-one-115607719.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://thumbs.dreamstime.com/b/orange-fruit-slice-close-up-isolated-white-background-42069400.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://img.freepik.com/premium-photo/orange-fruit-slice-isolated-white_319514-5782.jpg?w=2000
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://as1.ftcdn.net/v2/jpg/04/04/65/10/1000_F_404651016_q3Udi7h6I2iHmZSsQhP77anHaQJD4gcl.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://c8.alamy.com/comp/M1B7MJ/half-and-slice-of-fresh-orange-fruit-isolated-on-white-background-M1B7MJ.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://c8.alamy.com/comp/KW1JBG/orange-fruit-slice-KW1JBG.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://thumbs.dreamstime.com/b/orange-fruit-slice-29295990.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://www.publicdomainpictures.net/pictures/60000/velka/slice-of-orange-fruit-1381087155CqP.jpg
+[!] Issue getting: https://www.publicdomainpictures.net/pictures/60000/velka/slice-of-orange-fruit-1381087155CqP.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #48 from http://media.istockphoto.com/photos/orange-fruit-slices-isolated-on-white-picture-id489390912?k=6&amp;m=489390912&amp;s=612x612&amp;w=0&amp;h=Vaxw0HTE7K5FFd_31X_wjatqj4MAvow3T2sSZbMgNR4=
+[!] Issue getting: http://media.istockphoto.com/photos/orange-fruit-slices-isolated-on-white-picture-id489390912?k=6&amp;m=489390912&amp;s=612x612&amp;w=0&amp;h=Vaxw0HTE7K5FFd_31X_wjatqj4MAvow3T2sSZbMgNR4=
+[!] Error:: HTTP Error 400: Bad Request
+[%] Downloading Image #48 from https://c8.alamy.com/comp/GE2HEW/orange-fruit-slice-isolated-GE2HEW.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://static.vecteezy.com/system/resources/previews/006/666/756/large_2x/cut-in-half-and-slice-a-ripe-orange-fruit-with-golden-yellow-peel-isolated-on-white-background-with-shadow-free-photo.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://www.aspicyperspective.com/wp-content/uploads/2020/09/The-Easiest-Candied-Orange-Peel-Recipe-12.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

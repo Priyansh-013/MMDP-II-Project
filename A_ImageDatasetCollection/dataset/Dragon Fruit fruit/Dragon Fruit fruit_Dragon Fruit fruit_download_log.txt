@@ -1,0 +1,370 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Dragon Fruit fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 35 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://images-prod.healthline.com/hlcmsresource/images/AN_images/dragon-fruit-1296x728-feature.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://www.foodrepublic.com/img/gallery/how-to-eat-a-dragon-fruit-and-bring-out-its-flavors/l-intro-1687992760.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://morningchores.com/wp-content/uploads/2020/10/growing-dragon-fruits.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://www.healthbenefitstimes.com/9/gallery/dragon-fruit/Dragon-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://i1.wp.com/naturalfoodsfacts.com/wp-content/uploads/2018/09/Dragon-Fruit.jpg?fit=1920%2C1440&amp;ssl=1
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://www.liveeatlearn.com/wp-content/uploads/2022/09/How-to-Cut-Dragonfruit-13.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://media.geeksforgeeks.org/wp-content/uploads/20230202163817/Dragon-fruits-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://www.tastingtable.com/img/gallery/how-to-eat-dragon-fruit-for-the-uninitiated/intro-1682966430.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://thefoodiephysician.com/wp-content/uploads/2022/01/all-about-dragon-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://cocohitech.com/wp-content/uploads/2021/03/759e2962e247106d43160fce79832dd0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://dragonfruit.net.vn/wp-content/uploads/2023/04/vietnamese-yellow-dragon-fruit1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://eatingrichly.com/wp-content/uploads/2018/03/dragon-fruit-4553.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from http://sapodaklak.com/wp-content/uploads/2020/09/Dragon-Fruit.png
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://www.planetnatural.com/wp-content/uploads/2023/07/Dragon-fruits-ready-for-harvest.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://www.gardenloversclub.com/wp-content/uploads/2016/11/Dragon-fruit-field.jpg
+[!] Issue getting: https://www.gardenloversclub.com/wp-content/uploads/2016/11/Dragon-fruit-field.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #15 from https://joyfuldumplings.com/wp-content/uploads/2023/01/yellow-dragon-fruit-5.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://www.planetnatural.com/wp-content/uploads/2023/07/Dragon-fruit-plantation.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://www.foodinfotech.com/wp-content/uploads/2022/09/Red-Dragon-Fruit-plant.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://gardenerspath.com/wp-content/uploads/2022/09/Best-Dragon-Fruit-Varieties-Pin.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-04/yellow-dragon-fruit-laxative-zz-230405-54e847.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://eco-fruits.com/wp-content/uploads/2020/03/Artboard-13434.jpg
+[!] Issue getting: https://eco-fruits.com/wp-content/uploads/2020/03/Artboard-13434.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #20 from https://www.cuddlynest.com/blog/wp-content/uploads/2022/12/amazing-thai-fruits-dragon-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://cdn.kitchensanity.com/wp-content/uploads/can-you-eat-dragon-fruit-skin.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://cdn.kitchensanity.com/wp-content/uploads/why-is-dragon-fruit-so-expensive.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from http://imagehost.vendio.com/preview/a/35021333/aview/Dragonfruit_YS_22.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://gardentabs.com/wp-content/uploads/2023/01/17.-ORCHID-CACTUS-VS.-DRAGON-FRUIT-What-Are-The-Differences.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://www.planetnatural.com/wp-content/uploads/2023/07/Woman-with-fruit-from-dragon-fruit-plant.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://wildyards.com/wp-content/uploads/2022/10/dragon-fruit-soil.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://www.730sagestreet.com/wp-content/uploads/2023/02/Dragon-Fruit-Recipes.jpg
+[Error]Invalid image, not saving https://www.730sagestreet.com/wp-content/uploads/2023/02/Dragon-Fruit-Recipes.jpg
+
+[!] Issue getting: https://www.730sagestreet.com/wp-content/uploads/2023/02/Dragon-Fruit-Recipes.jpg
+[!] Error:: Invalid image, not saving https://www.730sagestreet.com/wp-content/uploads/2023/02/Dragon-Fruit-Recipes.jpg
+
+[%] Downloading Image #27 from https://i.ytimg.com/vi/Wn77PmbeoJU/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from http://i262.photobucket.com/albums/ii108/7_Heads/succulents/Dragonfruit_YS_24.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://images.indianexpress.com/2023/01/dragon-fruits.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://livelovefruit.com/wp-content/uploads/2014/04/dragonfruitinfo.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://static.vikaspedia.in/mediastorage/image/dragon_fruit_plants.png
+[!] Issue getting: https://static.vikaspedia.in/mediastorage/image/dragon_fruit_plants.png
+[!] Error:: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)>
+[%] Downloading Image #31 from https://i.pinimg.com/originals/81/a1/f1/81a1f19872fb258f1e889d72f2b1493a.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 2
+
+[%] Indexed 35 Images on Page 2.
+
+===============================================
+
+
+
+[!!]Indexing page: 3
+
+[%] Indexed 35 Images on Page 3.
+
+===============================================
+
+[%] Downloading Image #32 from https://post.healthline.com/wp-content/uploads/2020/09/AN445-Dragonfruit-732x549-thumb.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 4
+
+[%] Indexed 35 Images on Page 4.
+
+===============================================
+
+[%] Downloading Image #33 from https://www.tastingtable.com/img/gallery/why-a-massive-surge-in-dragon-fruit-spells-trouble-for-some-farmers/intro-1664051204.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 5
+
+[%] Indexed 35 Images on Page 5.
+
+===============================================
+
+[%] Downloading Image #34 from https://i.ytimg.com/vi/GBDnR3f5ktI/maxresdefault.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 6
+
+[%] Indexed 35 Images on Page 6.
+
+===============================================
+
+[%] Downloading Image #35 from https://pillarofgaming.com/wp-content/uploads/2022/12/Blox-Fruits-Dragon-1120x630.webp
+[!] Issue getting: https://pillarofgaming.com/wp-content/uploads/2022/12/Blox-Fruits-Dragon-1120x630.webp
+[!] Error:: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+
+
+[!!]Indexing page: 7
+
+[%] Indexed 35 Images on Page 7.
+
+===============================================
+
+[%] Downloading Image #35 from https://gamertweak.com/wp-content/uploads/2022/09/blox-fruits-how-to-get-dragon-fruit.jpg
+[!] Issue getting: https://gamertweak.com/wp-content/uploads/2022/09/blox-fruits-how-to-get-dragon-fruit.jpg
+[!] Error:: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+
+
+[!!]Indexing page: 8
+
+[%] Indexed 35 Images on Page 8.
+
+===============================================
+
+[%] Downloading Image #35 from https://www.foodrepublic.com/img/gallery/how-to-eat-a-dragon-fruit-and-bring-out-its-flavors/intro-1687992760.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 9
+
+[%] Indexed 35 Images on Page 9.
+
+===============================================
+
+[%] Downloading Image #36 from https://i.ytimg.com/vi/HjPwNuAI5NM/maxresdefault.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 10
+
+[%] Indexed 35 Images on Page 10.
+
+===============================================
+
+[%] Downloading Image #37 from https://www.agrifarming.in/wp-content/uploads/High-Density-Dragon-Fruit-Plantation-1.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 11
+
+[%] Indexed 35 Images on Page 11.
+
+===============================================
+
+[%] Downloading Image #38 from https://joyfuldumplings.com/wp-content/uploads/2023/01/yellow-dragon-fruit-4.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 12
+
+[%] Indexed 35 Images on Page 12.
+
+===============================================
+
+[%] Downloading Image #39 from https://www.pngmart.com/files/22/Dragon-Fruit-PNG-Pic.png
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 13
+
+[%] Indexed 35 Images on Page 13.
+
+===============================================
+
+[%] Downloading Image #40 from https://i.pinimg.com/736x/04/93/36/049336677ebe65e0da46dac1be0a82c3.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 14
+
+[%] Indexed 35 Images on Page 14.
+
+===============================================
+
+[%] Downloading Image #41 from https://png.pngtree.com/png-clipart/20231005/original/pngtree-dragon-fruit-and-slice-on-transparent-background-png-image_13279279.png
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 15
+
+[%] Indexed 35 Images on Page 15.
+
+===============================================
+
+[%] Downloading Image #42 from https://www.bhg.com/thmb/4EI597TYNkiIB-z1eZ2GAd1RGqI=/6000x0/filters:no_upscale():strip_icc()/how-to-grow-dragon-fruit-from-seeds-1439243080-5eb4ac7a49794679ae814772f00724fe.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 16
+
+[%] Indexed 35 Images on Page 16.
+
+===============================================
+
+[%] Downloading Image #43 from https://static.vecteezy.com/system/resources/previews/010/987/513/non_2x/ripe-dragon-fruit-with-half-isolated-on-white-background-with-clipping-path-png.png
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://i.ytimg.com/vi/_bgVOvJ2A0w/maxresdefault.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 17
+
+[%] Indexed 35 Images on Page 17.
+
+===============================================
+
+
+
+[!!]Indexing page: 18
+
+[%] Indexed 35 Images on Page 18.
+
+===============================================
+
+[%] Downloading Image #45 from https://i.ytimg.com/vi/q7NsAD-RSc8/maxresdefault.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 19
+
+[%] Indexed 35 Images on Page 19.
+
+===============================================
+
+[%] Downloading Image #46 from https://agriculturepost.com/wp-content/uploads/2022/08/APEDA-UAS-B-KAPPEC-host-buyer-seller-meet-on-dragon-fruits-in-Bangalore.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 20
+
+[%] Indexed 35 Images on Page 20.
+
+===============================================
+
+[%] Downloading Image #47 from https://poppyswildkitchen.com/wp-content/uploads/2022/09/cut-dragon-fruit-heros-3-720x900.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 21
+
+[%] Indexed 35 Images on Page 21.
+
+===============================================
+
+[%] Downloading Image #48 from https://familynano.com/wp-content/uploads/2017/07/What-Is-Dragon-Fruit.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 22
+
+[%] Indexed 35 Images on Page 22.
+
+===============================================
+
+[%] Downloading Image #49 from https://poppyswildkitchen.com/wp-content/uploads/2022/08/dragon-fruit-juice-sized-5.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 23
+
+[%] Indexed 35 Images on Page 23.
+
+===============================================
+
+[%] Downloading Image #50 from https://hgtvhome.sndimg.com/content/dam/images/hgtv/stock/2019/8/12/GettyImages-932237612.jpg.rend.hgtvcom.1280.853.suffix/1565624868552.jpeg
+[!] Issue getting: https://hgtvhome.sndimg.com/content/dam/images/hgtv/stock/2019/8/12/GettyImages-932237612.jpg.rend.hgtvcom.1280.853.suffix/1565624868552.jpeg
+[!] Error:: HTTP Error 403: Forbidden
+
+
+[!!]Indexing page: 24
+
+[%] Indexed 35 Images on Page 24.
+
+===============================================
+
+[%] Downloading Image #50 from https://foodrevolution.org/wp-content/uploads/2019/05/iStock-935484516-1.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

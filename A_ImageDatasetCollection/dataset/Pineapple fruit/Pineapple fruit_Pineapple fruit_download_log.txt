@@ -1,0 +1,165 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Pineapple fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from http://www.dietandi.com/wp-content/uploads/2014/02/slice-of-pineapple.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://www.healthbenefitstimes.com/9/gallery/pineapple-1/Pineapple-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://cdn.pixabay.com/photo/2022/06/24/17/34/pineapple-7282114_1280.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://cdn.pixabay.com/photo/2014/06/01/05/53/pineapple-359402_1280.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from http://images6.fanpop.com/image/photos/34700000/Pineapple-fruit-34733559-900-1691.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://images.unsplash.com/photo-1550258987-190a2d41a8ba?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;w=1000&amp;q=80
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://cdn.pixabay.com/photo/2019/03/09/18/13/pineapple-4044698_1280.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://www.thecoldwire.com/wp-content/uploads/2022/03/Sliced-and-half-of-Pineapple.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://cdn.britannica.com/54/119354-050-FA32210A/pineapple.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://www.wallpaperflare.com/static/908/420/921/pineapple-fruit-market-bunch-wallpaper.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://freepngimg.com/thumb/pineapple/24-pineapple-fruit-png-image.png
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://www.publicdomainpictures.net/pictures/300000/velka/pineapple-fruit-1560521290koH.jpg
+[!] Issue getting: https://www.publicdomainpictures.net/pictures/300000/velka/pineapple-fruit-1560521290koH.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #12 from https://d.newsweek.com/en/full/1913999/pineapple-growing-garden.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,w_1500,c_fill,g_auto/https://storage.googleapis.com/gen-atmedia/3/2018/10/f5f155d82009d40994a1ea432724a46bd2262e37.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://i.ytimg.com/vi/xHwSWzCmKPw/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://i.ytimg.com/vi/Pn2rQd19fhw/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from http://3.bp.blogspot.com/-8iAv3bCXj1Q/VE8NUL_eU0I/AAAAAAAAOgg/gLIl0IubuCI/s900/IMG_0580.JPG
+[%] File Downloaded !
+
+[%] Downloading Image #17 from http://1.bp.blogspot.com/-mW4MjzPbANg/Urq0CBSQteI/AAAAAAAAMX4/CLibx1INocM/s1600/DSC_0335.JPG
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://i.ytimg.com/vi/0wLnDrpmQBM/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://i.ytimg.com/vi/31niB9ovETs/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://i.ytimg.com/vi/qPO88d5C094/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://i.ytimg.com/vi/_fxGAx9Pdec/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://www.heartwoodcarving.com/shop/images/on-pincl1_web.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from http://www.heartwoodcarving.com/shop/images/plaque-pineapple.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://3.bp.blogspot.com/-JQsWkPaiuvc/Urq0FJX_PUI/AAAAAAAAMZI/2Bc6wWuklpw/s1600/p62.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://i.pinimg.com/originals/23/b2/69/23b269f06102244eb83f1e79d31c2593.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://3.bp.blogspot.com/-EhqRpiBIIa4/Urq0CuKzgPI/AAAAAAAAMYM/UTg9V98bOaQ/s1600/lEszv.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from http://3.bp.blogspot.com/-vc6Fv2uIPRs/VE8NUf3NzfI/AAAAAAAAOgk/R2w4iWCNx8g/s1600/pineapple-jackolantern.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://3.bp.blogspot.com/-_x1rc-Ygt54/V6eSioadM3I/AAAAAAAACmI/IUW0GmKL8CYSdz1YjkeR3bvU73HzBb5DQCLcB/s1600/IMG_0010_1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://i.ytimg.com/vi/nHJVeigRYDU/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://i.ytimg.com/vi/nt6nCpG4YpQ/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://i.ytimg.com/vi/yImZKwe4o0s/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://i.ytimg.com/vi/s-7XHRi0r_4/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://freshcoasteats.com/wp-content/uploads/2021/05/Air-Fryer-Pineapple.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://www.savorynothings.com/wp-content/uploads/2021/04/how-to-cut-a-pineapple-image-1-1024x1536.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://img.freepik.com/premium-photo/pineapple-slices-isolated-white-background_253984-6719.jpg?w=1380
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://www.ambitiouskitchen.com/wp-content/uploads/2021/07/How-to-Cut-a-Pineapple-12long.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://images.pexels.com/photos/4195526/pexels-photo-4195526.jpeg?cs=srgb&amp;dl=healthy-fresh-sliced-pineapple-in-white-bowl-4195526.jpg&amp;fm=jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://thewholecook.com/wp-content/uploads/2023/08/Grilled-Pineapple-Slices-1-6.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://www.goodfreephotos.com/albums/food/sliced-pineapple-pieces.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://thumbs.dreamstime.com/b/pineapple-slices-4436620.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://www.onceuponachef.com/images/2017/06/How-to-Cut-A-Pineapple-9-1200x795.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://jooinn.com/images/pineapple-with-slices-isolated-on-white-11.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://thumbs.dreamstime.com/z/pineapple-slice-24113731.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://thewoodenskillet.com/wp-content/uploads/2022/07/smoked-pineapple-recipe-9.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.dinneratthezoo.com/wp-content/uploads/2020/01/grilled-pineapple-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://c8.alamy.com/comp/M986BG/pineapple-slices-M986BG.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://purepng.com/public/uploads/large/purepng.com-pineapple-slicepineappleripeananasfruithealth-981524761334znx8f.png
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://jooinn.com/images/pineapple-with-slices-isolated-on-white-6.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://www.albionfinefoods.com/images_products/HD_PINEAPPSLCDA10.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://thumbs.dreamstime.com/z/fresh-slice-pineapple-18088982.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

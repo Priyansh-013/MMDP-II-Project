@@ -1,0 +1,180 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Peach fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://cdn.britannica.com/68/124168-050-33A2B851/Fruit-peach-tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://wallpaperaccess.com/full/2062400.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://www.tasteofhome.com/wp-content/uploads/2019/06/peaches-shutterstock_297863489-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://www.tipshealthline.com/wp-content/uploads/2018/01/peach.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://morningchores.com/wp-content/uploads/2019/06/Growing-Peach-Tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://images4.alphacoders.com/280/280066.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/8/2017/04/E218F4-e1553154698193.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://static.vecteezy.com/system/resources/previews/022/825/541/original/peach-fruit-peach-on-transparent-background-png.png
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://rare-gallery.com/uploads/posts/733781-Fruit-Peaches.jpg
+[!] Issue getting: https://rare-gallery.com/uploads/posts/733781-Fruit-Peaches.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #9 from https://cdn.diys.com/wp-content/uploads/2021/02/Peach-Tree-Care.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://wallpaperaccess.com/full/3586230.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201907/740376219.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://iheartcraftythings.com/wp-content/uploads/2021/06/6-80.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://easydrawingguides.com/wp-content/uploads/2020/01/Peach-Step-10.png
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://helloartsy.com/wp-content/uploads/kids/fruit/how-to-draw-a-peach/how-to-draw-a-peach-step-6.jpg
+[!] Issue getting: https://helloartsy.com/wp-content/uploads/kids/fruit/how-to-draw-a-peach/how-to-draw-a-peach-step-6.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #14 from https://i.pinimg.com/originals/03/96/09/0396094d0f35aca8287f557c491eeb0b.png
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://bi.fbcd.co/posts/watercolor-drawing-of-a-peach-625351591dfbf131549522.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://easydrawingguides.com/wp-content/uploads/2020/01/Peach-Step-07.png
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://i.pinimg.com/originals/30/0e/8c/300e8c3c231f5bb84a70100894a03255.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://i.ytimg.com/vi/NJ7AqoOwg9U/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://i.pinimg.com/originals/2f/cc/60/2fcc60fe004afc5672286013f35529ee.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://www.freevector.com/uploads/vector/preview/28933/peach-01.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://png.pngtree.com/png-vector/20240602/ourlarge/pngtree-step-by-step-drawing-fruit-peach-png-image_12592471.png
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://easydrawingart.com/wp-content/uploads/2019/07/How-to-draw-a-peach.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://www.shutterstock.com/image-vector/peach-fruits-sketch-drawing-vector-600w-146666024.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://static.vecteezy.com/system/resources/previews/013/797/920/original/peach-drawing-in-a-flat-style-minimalistic-fruit-whole-on-a-white-background-free-vector.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://cdn.pixabay.com/photo/2021/09/16/23/56/peaches-6631318_960_720.png
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://image.freepik.com/free-vector/peach-fruit-drawing-illustration-design_317408-482.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://img.freepik.com/premium-vector/watercolor-peaches-set-hand-drawn-vector-peach-sweet-fruit-drawing-vector-illustration_639772-504.jpg?w=2000
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://i.ytimg.com/vi/qujqvY-s240/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://iheartcraftythings.com/wp-content/uploads/2021/06/4-81.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://static.vecteezy.com/system/resources/previews/006/418/785/large_2x/peach-illustration-fresh-fruit-drawing-hand-drawn-vintage-free-vector.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://kellogggarden.com/wp-content/uploads/2020/05/peaches-on-a-branch.jpg
+[!] Issue getting: https://kellogggarden.com/wp-content/uploads/2020/05/peaches-on-a-branch.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #31 from https://www.garden.eco/wp-content/uploads/2018/06/how-to-grow-a-peach-tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://cdn.mos.cms.futurecdn.net/NUXtLpfx8buxfMKoKWd5qe.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://www.thespruce.com/thmb/SysCH3CdBlFU5RtdZP-q5Lr_6_8=/3300x2200/filters:fill(auto,1)/how-to-grow-and-care-for-peach-trees-4589455-1-e76076a29bd94e8b946aaa7b5e9d78fb.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://www.thespruce.com/thmb/__cND8lzMZbKpno8JE3-YCR5iHs=/2121x1414/filters:fill(auto,1)/GettyImages-816897922-5c90fe8646e0fb000146ade2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://kellogggarden.com/wp-content/uploads/2020/05/peach-tree-768x512.jpg
+[!] Issue getting: https://kellogggarden.com/wp-content/uploads/2020/05/peach-tree-768x512.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #35 from https://minnetonkaorchards.com/wp-content/uploads/2022/08/Peaches-on-Tree-SS-461362939.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://cdn.britannica.com/60/171660-050-850EC136/Peaches-tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://plantnet.com.au/wp-content/uploads/plantnet-rootstock-peach-Dwarf-White-Gold.jpg
+[!] Issue getting: https://plantnet.com.au/wp-content/uploads/plantnet-rootstock-peach-Dwarf-White-Gold.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #37 from https://www.progardentips.com/wp-content/uploads/2021/02/12899044_peaches-on-tree.jpg
+[!] Issue getting: https://www.progardentips.com/wp-content/uploads/2021/02/12899044_peaches-on-tree.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #37 from https://www.gardentech.com/-/media/project/oneweb/gardentech/images/blog/how-to-grow-and-care-for-a-dwarf-peach-tree/peach-tree-blooms.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://gardeningdream.com/wp-content/uploads/2020/10/When-do-Peach-Trees-Bear-Fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://www.fromthegarden.co.za/wp-content/uploads/2020/10/grafted-peach-tree-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://www.jardiner-malin.fr/wp-content/uploads/2018/04/pecher-.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://www.gardentech.com/-/media/project/oneweb/gardentech/images/blog/how-to-grow-and-care-for-a-dwarf-peach-tree/peach-fruit-h.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/8/2017/04/E218F4-e1553154698193-874x920.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://cdn.mos.cms.futurecdn.net/vKpEpWVjSgxwNmzYG3yEKF.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://thumbs.dreamstime.com/z/peach-tree-fruits-growing-garden-peach-orchard-harvest-peach-tree-fruits-growing-garden-peach-orchard-122585666.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://ohsweetbasil.com/wp-content/uploads/old-fashioned-peach-cobbler-recipe-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://cookieandkate.com/images/2016/08/summertime-fruit-salad-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://www.christinascucina.com/wp-content/uploads/2020/06/fullsizeoutput_d605.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://www.onelovelylife.com/wp-content/uploads/2020/05/Peach-Berry-Fruit-Salad1C.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://i.pinimg.com/originals/af/72/8c/af728c5dee73b60271f8b4a0627134af.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://i.pinimg.com/originals/22/bd/ab/22bdab2c1cacca936799cb2254659ea9.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

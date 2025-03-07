@@ -1,0 +1,174 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Tamarind fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://fullofplants.com/wp-content/uploads/2023/05/what-is-tamarind-and-how-to-use-it-complete-guide-35.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://images.pexels.com/photos/214159/pexels-photo-214159.jpeg?cs=srgb&amp;dl=tamarind-fruit-214159.jpg&amp;fm=jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://images.fwdlife.in/2020/03/TAMARIND-HEALTH-BENEFITS.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://images.hivisasa.com/1200/22L0dwnuRF206_l.jpg
+[!] Issue getting: https://images.hivisasa.com/1200/22L0dwnuRF206_l.jpg
+[!] Error:: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+[%] Downloading Image #4 from https://www.thespruceeats.com/thmb/Lql3dJkR_zChmHcmE_XMaIiVuxg=/2121x1414/filters:fill(auto,1)/tamarind-on-grunge-wooden-background-512435778-279c6548f7af4394a3782d9524584caa.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://www.thespruce.com/thmb/35yHeB4N76sJybZqDUmbBjhzJPk=/1999x1500/filters:no_upscale():max_bytes(150000):strip_icc()/Tamarind-GettyImages-122632372-5a1b64d7beba330037b797d8.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://c8.alamy.com/comp/2J78N0J/ripe-tamarind-fruit-leaves-and-some-tamarind-seeds-isolated-on-white-background-2J78N0J.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from http://1.bp.blogspot.com/-j9D6KTRIjkQ/T4U_C6DIQQI/AAAAAAAAAD4/yISLDpBoyac/s1600/tamarind8.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://thumbs.dreamstime.com/z/ripe-tamarind-fruit-green-leaves-opened-close-ripe-tamarind-fruit-green-leaves-white-floor-130498708.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://toptropicals.com/pics/toptropicals/articles/fruit/tamarind-DSCN1931.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://www.plantvine.com/plants/Tamarind.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://naturalfoodseries.com/wp-content/uploads/2017/10/Tamarind.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://assets.lybrate.com/imgs/product/health-wiki/bpages/Health-Benefits-Of-Tamarind.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://draxe.com/wp-content/uploads/2017/12/TamarindFruit_GRAPHIC_1-e1599056203339.jpg
+[!] Issue getting: https://draxe.com/wp-content/uploads/2017/12/TamarindFruit_GRAPHIC_1-e1599056203339.jpg
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #13 from https://i.pinimg.com/originals/8c/c5/ba/8cc5ba94d0f67bd6fe5ad326bdefa36b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://image.slidesharecdn.com/outstandinghealthbenefitsoftamarindfruit-170701190501/95/outstanding-health-benefits-of-tamarind-fruit-a-series-of-presentation-by-mr-allah-dad-khan-former-dg-agriculture-visiting-professor-the-university-of-agriculture-peshawar-allahdad52gmailcom-7-638.jpg?cb=1498935940
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://www.healthtipslive.com/wp-content/uploads/2018/10/Top-10-Health-Benefits-of-Tamarind.jpg
+[!] Issue getting: https://www.healthtipslive.com/wp-content/uploads/2018/10/Top-10-Health-Benefits-of-Tamarind.jpg
+[!] Error:: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[%] Downloading Image #15 from https://i.pinimg.com/originals/ba/01/ff/ba01ffaba14e88461dd047f07ed9e3b4.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://parentinghealthybabies.com/app/phb-data/uploads/2019/08/benefits-of-tamarind-juice.png
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://i.pinimg.com/736x/17/e5/75/17e5751bead0a87c02b2bf8a6c4a9ea6--tamarind-benefits-diabetic-friendly.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://www.herbazest.com/imgs/8/2/f/61243/tamarind-benefits-and-properties-733460-section.png
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://i.pinimg.com/originals/d1/74/eb/d174eb0e2d4fc08528a0e17c813ba3cb.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://globalhealing.com/natural-health/wp-content/uploads/2017/06/benefits-of-tamarind.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://soumyahospitals.com/media/ck_editor/2024/06/01/benefits-of-tamarind-seeds_XFIpfNp.png
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://i.pinimg.com/originals/c5/9a/b3/c59ab3ab06c8ece7714f4fe31cd14786.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://draxe.com/wp-content/uploads/2017/12/TamarindFruit_HEADER.jpg
+[!] Issue getting: https://draxe.com/wp-content/uploads/2017/12/TamarindFruit_HEADER.jpg
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #23 from https://i.ytimg.com/vi/-zI004Z8Ir4/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://i1.wp.com/www.healthbenefitstimes.com/9/uploads/2013/04/Main-image-of-Tamarind.jpg?fit=830%2C691&amp;ssl=1
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://stylesatlife.com/wp-content/uploads/2021/09/Imli-Benefits-Benefits-of-Eating-Tamarind.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://npvbeverage.com.vn/wp-content/uploads/2020/12/tamarind-5-1024x559.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://allremedies.com/wp-content/uploads/2018/05/benefits-of-tamarind.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://healthyfocus.org/wp-content/uploads/2017/03/hdr-8-Tamarind-Health-Benefits.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://www.foxyfolksy.com/wp-content/uploads/2022/07/tamarind-juice.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://i.pinimg.com/originals/00/6a/fb/006afbecee58febc6f9039eb43e93656.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://classicbakes.com/sites/default/files/styles/og_image_1200/public/2021-07/Trinidad_TamarindJuice.jpg?itok=piawnel1
+[%] File Downloaded !
+
+[%] Downloading Image #32 from http://runawayrice.com/wp-content/uploads/2014/04/Dried-Tamarind-1024x576.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://www.muydelish.com/wp-content/uploads/2021/07/tamarind-pulp.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://static01.nyt.com/images/2020/08/12/dining/10Tamarindrex4-paste/10Tamarindrex4-paste-threeByTwoMediumAt2X.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://cdn.healthyrecipes101.com/wp-content/uploads/2021/05/what-does-tamarind-taste-like.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://i.ytimg.com/vi/guFIh0KJe_U/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://i.pinimg.com/originals/f6/f6/68/f6f66862d8a4218e6f0d8345c954968b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://www.foodandwine.com/thmb/jJupeS5vHMkh9TBsJkwdaG1uPY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tamarind-Chicken-FT-RECIPE0522-80072d93f7bc4bc7abf1dcf5b5317b0c.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://i.ytimg.com/vi/7Tm31xChacM/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://i.ytimg.com/vi/1sJnUTRWknw/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://2.bp.blogspot.com/-0NqDk58hiFg/Uj3d59MTyAI/AAAAAAAAKp4/VBloZqqlO3U/s1600/IMG_0895.JPG
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://i.pinimg.com/originals/34/27/c4/3427c45a25ff3a27662215c78970f511.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from http://www.magluto.com/wp-content/gallery/pinoy-food-photo/filipino-recipe-tamarind.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://insanelygoodrecipes.com/wp-content/uploads/2022/01/Tamarind-Recipes-2-683x1024.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.thespruceeats.com/thmb/HaTuocDjJBWwwKApgv-6VdUQR8c=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/tamarind-composition-917915332-5c27814fc9e77c0001d12ed7.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://www.singaporeanmalaysianrecipes.com/wp-content/uploads/2021/02/tamarind-recipe.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://blog.pureindianfoods.com/wp-content/uploads/2019/04/tamarind-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://rosasthai.com/wp-content/uploads/2017/06/tamarind-dipping-540px.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://c8.alamy.com/comp/CT346K/tamarindus-indica-tamarind-fruit-pods-growing-on-a-tree-CT346K.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from http://i262.photobucket.com/albums/ii108/7_Heads/Trees/Tamarindus_indica_24.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

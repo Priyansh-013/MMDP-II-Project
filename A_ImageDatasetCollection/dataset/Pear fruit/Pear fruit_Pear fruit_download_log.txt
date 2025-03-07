@@ -1,0 +1,165 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Pear fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://www.onlyfoods.net/wp-content/uploads/2020/08/Types-of-Pears.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://cdn.britannica.com/05/187205-050-A7EA39D0/Pear-fruit-tree-Pears.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://www.wallpaperflare.com/static/186/193/252/pear-fruit-5k-basket-wallpaper.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://www.goodwholefood.com/wp-content/uploads/2016/08/pear-single-green.jpg
+[!] Issue getting: https://www.goodwholefood.com/wp-content/uploads/2016/08/pear-single-green.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #4 from https://c1.peakpx.com/wallpaper/72/493/88/bartlett-pear-pear-bartlett-healthy-wallpaper.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://www.fruitsinfo.com/fruit-facts/wp-content/uploads/2021/04/asian-pears.jpg?x33963
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://kj1bcdn.b-cdn.net/media/38338/1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://www.wallpaperflare.com/static/46/737/128/pears-fruit-ripe-bunch-wallpaper.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://www.tasteofhome.com/wp-content/uploads/2020/10/green-pears-with-leaves-1084768780.jpg?w=1200
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://nutritionfacts.org/app/uploads/2019/01/fruit-1534494_1920.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://www.agmrc.org/media/cms/pears_581123917B436.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://www.thespruceeats.com/thmb/O378iqLlQXUtL49TYDDq3ShQbLk=/2123x1412/filters:no_upscale():max_bytes(150000):strip_icc()/Forelle-Pears-58a48c543df78c47589d89d3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://www.bhg.com/thmb/QLQUROu0yRSOTzW1nxK-cE5D2y8=/1878x1244/filters:fill(auto,1)/pears-growing-in-tree-blue-sky-d2d9c4020ce44c249a65464c2c669b8c.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://www.thespruce.com/thmb/EH5hRqNq-tn7LexhZXb_aDONA2A=/6048x0/filters:no_upscale():max_bytes(150000):strip_icc()/bartlett-pear-tree-growing-guide-5211022_04-7703e95172b04952a53096f1b23b004e.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://www.gardeningknowhow.com/wp-content/uploads/2011/09/pear-tree-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://www.thespruce.com/thmb/n2McqZFGhJJzAWJAb4ocYQh0VjI=/3450x2300/filters:fill(auto,1)/growing-pear-trees-in-home-garden-3269331-26h-1834ea253d814347be41bd02a78a8cf5.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://www.thespruce.com/thmb/GTOmQzmv0ud8on_zeLNq6Qd956Q=/2121x1414/filters:fill(auto,1)/asianpearGettyImages-1047600444-62b3202a4f7e4e0bb45b5e15ba6adc0b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://i.pinimg.com/originals/02/9b/6e/029b6e9353e95b37eef663d37675c095.png
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://harvesttotable.com/wp-content/uploads/2017/11/bigstock-Ripe-Pears-On-A-Tree-Close-Up-452871031.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://gardenerspath.com/wp-content/uploads/2020/10/Growing-Fruting-Pear-Trees-in-the-Back-Yard.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://gardenerspath.com/wp-content/uploads/2020/10/Pears-Growing-in-the-Garden-Ready-to-Harvest-Hero.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://www.thespruce.com/thmb/Zl-LTYYxUOJj7h6VmJi1butI79A=/2122x1415/filters:fill(auto,1)/107085188-56a98c7d3df78cf772a82c5f.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://gardenerspath.com/wp-content/uploads/2020/10/A-semi-dwarf-pear-tree-in-a-backyard-orchard.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from http://treepicturesonline.com/bradfordpeartree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://i.pinimg.com/originals/13/cb/14/13cb1401afa56ec970bd73e616b2eb36.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://facts.net/wp-content/uploads/2024/02/19-kieffer-pear-tree-facts-1708122377.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://gardenerspath.com/wp-content/uploads/2023/07/How-to-Water-Your-Pear-Trees-Feature.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://s3-us-west-1.amazonaws.com/contentlab.studiod/getty/30e15ac9e391493486949c326d48f40a.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://i.pinimg.com/originals/3d/f4/c6/3df4c6f27cef3bec1ba714272645d541.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://bluehillwildlifenursery.com/wp-content/uploads/2021/08/20210818_150139-scaled.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://www.isons.com/wp-content/uploads/2016/11/P7301797.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://cdn.shopify.com/s/files/1/0022/0774/4115/products/pear-tree-3526690_1920_1024x1024@2x.jpg?v=1543552249
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://i0.wp.com/blog.blueapron.com/wp-content/uploads/2021/09/Pears_Social_21-09_182.jpg?fit=1920%2C1920&amp;ssl=1
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://www.shutterstock.com/shutterstock/photos/2229781065/display_1500/stock-vector-pears-varieties-pear-types-for-eating-meal-cake-dessert-yellow-red-green-brown-punching-bags-and-2229781065.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://www.thespruceeats.com/thmb/sjliJhik3xZNWhs3OMpRAXhlBYo=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/Bosc-Pears-58a48c685f9b58819cc390a2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://www.chelanfresh.com/wp-content/uploads/2016/08/pear-varieties-web.png
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://fthmb.tqn.com/C1s3VR1tZmLC2P_AGREBsrqZxcM=/2121x1413/filters:fill(auto,1)/pear-varieties-58a48c395f9b58819cc314be.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://www.liveeatlearn.com/wp-content/uploads/2015/09/pear-varieties-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://www.thespruceeats.com/thmb/eMC6uf68xyFuOQDdiQI-qDO67g4=/2000x1500/filters:no_upscale():max_bytes(150000):strip_icc()/Concorde-Pears-58a48c593df78c47589d96d0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://fthmb.tqn.com/arwNuNhw4_FEmN22gS0dzwcc0To=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/Anjou-Pears-58a48c795f9b58819cc3bee0.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://www.tasteofhome.com/wp-content/uploads/2020/10/green-pears-with-leaves-1084768780.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://thumbs.dreamstime.com/z/varieties-pears-27577064.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://assets.epicurious.com/photos/5b48dce8710a8a3921dbb2c7/master/w_1600,c_limit/Forelle%2520Pear%252007132018.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://www.thespruceeats.com/thmb/d2-HI4re1uXeLlomn9f0npe2HsA=/1968x1601/filters:no_upscale():max_bytes(150000):strip_icc()/Red-Anjou-Pears-58a48c483df78c47589d6acd.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from http://www.sujaorganic.com/cdn/shop/articles/Screen-Shot-2016-02-03-at-12.48.20-PM.png?v=1694160740
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.britishapplesandpears.co.uk/wp-content/uploads/2021/05/shutterstock_1471806452-scaled.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://www.tasteofhome.com/wp-content/uploads/2020/10/comice-pears-in-bowl-559009067.jpg?w=1200
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://gardenerspath.com/wp-content/uploads/2022/03/Best-Asian-Pear-Varieties-Hero.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://www.thespruceeats.com/thmb/lTdEmLBD05GBgLz1X7Bx1qi92Wc=/2001x1500/filters:no_upscale():max_bytes(150000):strip_icc()/asianpears-58a48c725f9b58819cc3aad9.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://gardenerspath.com/wp-content/uploads/2021/10/Gardener-Harvesting-Pears-in-the-Garden.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://gardenerspath.com/wp-content/uploads/2021/10/Gardener-Harvesting-Pears.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

@@ -1,0 +1,177 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Custard Apple fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://cdn.britannica.com/95/126995-050-101B8B8D/Sweetsop.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://www.healthifyme.com/blog/wp-content/uploads/2020/01/custard-apple-cover-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://swikblog.com/wp-content/uploads/2017/10/custard-apple-2.jpg
+[Error]Invalid image, not saving https://swikblog.com/wp-content/uploads/2017/10/custard-apple-2.jpg
+
+[!] Issue getting: https://swikblog.com/wp-content/uploads/2017/10/custard-apple-2.jpg
+[!] Error:: Invalid image, not saving https://swikblog.com/wp-content/uploads/2017/10/custard-apple-2.jpg
+
+[%] Downloading Image #3 from https://blog.bigbasket.com/wp-content/uploads/2022/08/custard-apple-e1661180124386.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from http://naturebring.com/wp-content/uploads/2017/03/custard-affrrpple-1024x768.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://www.horticultureguruji.in/wp-content/uploads/2021/08/fruit-621842_1920.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://thumbs.dreamstime.com/b/custard-apple-fruit-179793174.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://thumbs.dreamstime.com/b/custard-apple-tree-garden-fruit-tropical-58880434.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://www.thespruce.com/thmb/BTC64AL_CNLbVKPruDl98dzkKv4=/3889x2560/filters:no_upscale():max_bytes(150000):strip_icc()/custard-apple-fruit-686191816-5ade1f2ac5542e003682d951.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://c8.alamy.com/comp/ET106P/heap-of-custard-apple-fruit-annona-squamosa-ozar-pune-maharashtra-ET106P.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://c8.alamy.com/comp/MNA8EE/custard-apple-fruit-on-green-tree-in-the-garden-tropical-fruit-MNA8EE.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://i.pinimg.com/originals/5b/7e/f9/5b7ef952739393541300cb206edee50a.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://world-crops.com/wp-content/uploads/06-Custard-apple-768x515.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://www.goodfruitandvegetables.com.au/images/transform/v1/crop/frm/XftCMkCcRPa3Vky3YfP3wJ/aac8b66d-b9e2-4277-9b26-7ed774dcf0aa.jpg/r0_137_1024_713_w1200_h678_fmax.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://cdn.britannica.com/45/139045-050-06B8EBD7/Soursop.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from http://1.bp.blogspot.com/-9857i3YGbdg/Voo_EHjhmyI/AAAAAAAAAMI/g_2fVqpyQf4/s1600/Growing%2BCustard%2BApple%2Bto%2BEarn%2BMoney%2B%25282%2529.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://plant.daleysfruit.com.au/l/custard-apple-varieties-atemoya-11709.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://anfic.com.au/wp-content/uploads/2019/08/KJ-Pinks-Custard-Apple-anfic-fruit-tree-variety-900x578.jpg
+[!] Issue getting: https://anfic.com.au/wp-content/uploads/2019/08/KJ-Pinks-Custard-Apple-anfic-fruit-tree-variety-900x578.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #17 from https://ianswaterway.com/wp-content/uploads/2024/04/02.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://www.wikihow.com/images/9/9c/Select-and-Store-Custard-Apples-Step-4.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://facts.net/wp-content/uploads/2023/08/14-facts-about-custard-apples-1691485019.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://www.shutterstock.com/image-photo/custard-apples-sugar-apple-variety-260nw-687991888.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://media.riverford.co.uk/images/1744-ce6d30de1698c07cf01fce5224a8e57e.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://growables.org/information/TropicalFruit/images/AnnonaReticulataSanPablo.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://cdn.shopify.com/s/files/1/1294/9917/products/image_4b998821-cde6-4670-ab49-bab4db1ba187_1024x1024.jpg?v=1539277372
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://www.ouriquesfarm.com/wp-content/uploads/2023/03/annona-reticulata-19733815.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://arbourgrovenursery.com.au/wp-content/uploads/Arbour-Grove-Nursery-00040-1024x771.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://www.netmeds.com/images/cms/wysiwyg/blog/2019/11/Custard_Apple_big_2_1_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://i.ytimg.com/vi/_j4z5yo7tkU/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://static.toiimg.com/thumb/imgsize-23456,msid-49436494,width-600,resizemode-4/49436494.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://cdn.britannica.com/06/118306-050-1233B575/Custard-apple.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://realtropicals.com/wp-content/uploads/ANN-PUR-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://www.norwichgardener.com/uploads/thumbnails/custard-apple-tree-plant-care-grow.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://urbantropicals.com/wp-content/uploads/ANN-MUR-56.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://www.yanallafarms.com.au/images/produce/custard-apples/produce-custard-apple-tree-001.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://c8.alamy.com/comp/ET22C9/custard-apple-tree-padhegaon-shrirampur-ahmednagar-maharashtra-india-ET22C9.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://gardeningtips.in/wp-content/uploads/2021/09/2-8.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from http://malcolmtattersall.com.au/wp/wp-content/uploads/2013/03/IMG_7596cbs.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://pixahive.com/wp-content/uploads/2021/01/A-sugar-apple-on-its-tree-285450-pixahive.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://pixy.org/src/479/4791006.jpg
+[!] Issue getting: https://pixy.org/src/479/4791006.jpg
+[!] Error:: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1000)>
+[%] Downloading Image #38 from https://5.imimg.com/data5/SELLER/Default/2021/3/GO/OB/WQ/31939609/super-golden-custard-apple-tree-1000x1000.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://plant.daleysfruit.com.au/ml/dwarf-custard-apple-tropic-sun-8008.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://thumbs.dreamstime.com/b/custard-apple-tree-garden-fruit-tropical-58880592.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://png.pngtree.com/background/20230603/original/pngtree-custard-apple-fruit-on-tree-in-organic-farm-photo-picture-image_2867382.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://thumbs.dreamstime.com/z/custard-apple-fruit-tree-organic-farm-124139174.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://www.uncommoncaribbean.com/wp-content/uploads/2021/03/DSC_0191-scaled.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://thumbs.dreamstime.com/z/beautiful-custard-apple-beautiful-custard-apple-tree-100736099.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://cdn.mos.cms.futurecdn.net/gGjuFdpZXifgjvEqZp4hsE.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://1.bp.blogspot.com/-TJEPJQB1qbM/WYBC85TI1vI/AAAAAAAAQ04/6X3ygYHg5bArlPXzbcUOdYnbltVDRcVYwCLcBGAs/s1600/DSC_0195.JPG
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://25lists.com/wp-content/uploads/2020/08/apple-custard-pie-cropped_edited-1-938x1024.jpg?v=1598229505
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://img.taste.com.au/lVO6bLV2/taste/2020/06/apple-and-custard-cake-2-162699-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://aranchmom.com/wp-content/uploads/2014/06/IMG_5982.jpg
+[!] Issue getting: https://aranchmom.com/wp-content/uploads/2014/06/IMG_5982.jpg
+[!] Error:: HTTP Error 520: 
+[%] Downloading Image #49 from https://i.ytimg.com/vi/lDw2qY5LcRk/maxresdefault.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://www.joyofbaking.com/images/facebook/applecustardtart1.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

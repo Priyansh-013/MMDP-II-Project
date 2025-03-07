@@ -1,0 +1,174 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Grapes fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://scitechdaily.com/images/Grapes-Wood.jpg
+[Error]Invalid image, not saving https://scitechdaily.com/images/Grapes-Wood.jpg
+
+[!] Issue getting: https://scitechdaily.com/images/Grapes-Wood.jpg
+[!] Error:: Invalid image, not saving https://scitechdaily.com/images/Grapes-Wood.jpg
+
+[%] Downloading Image #1 from https://images.pexels.com/photos/708777/pexels-photo-708777.jpeg?cs=srgb&amp;dl=bunch-cluster-delicious-708777.jpg&amp;fm=jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://pixnio.com/free-images/2017/10/31/2017-10-31-12-01-55.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from http://www.nogarlicnoonions.com/images/uploads/NEWS/grapes 2.jpg
+[!] Issue getting: http://www.nogarlicnoonions.com/images/uploads/NEWS/grapes 2.jpg
+[!] Error:: URL can't contain control characters. '/images/uploads/NEWS/grapes 2.jpg' (found at least ' ')
+[%] Downloading Image #3 from https://static.pexels.com/photos/209545/pexels-photo-209545.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://pixnio.com/free-images/2020/07/17/2020-07-17-09-50-49.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from http://images6.fanpop.com/image/photos/34700000/Grapes-fruit-34733392-2560-1600.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://scx2.b-cdn.net/gfx/news/hires/2022/grapes.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://images.alphacoders.com/439/439354.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://pixnio.com/free-images/flora-plants/fruits/grapes-fruit-pictures/green-grape-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://assets.marthastewart.com/styles/wmax-520-highdpi/d29/med106155_1110_sea_grapefruit/med106155_1110_sea_grapefruit_vert.jpg?itok=EKVlszWA
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://simple-veganista.com/wp-content/uploads/2013/04/broiled-grapefruit-recipe-12.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://www.notenoughcinnamon.com/wp-content/uploads/2013/03/Maple-Cinnamon-Baked-Grapefruit-4.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://www.dessertnowdinnerlater.com/wp-content/uploads/2020/03/Ruby-Red-Grapefruit-Bars-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://cookingchew.com/wp-content/uploads/2021/10/Grapefruit-Recipes-CO1333-Pin-3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://insanelygoodrecipes.com/wp-content/uploads/2021/08/Baked-Red-Grapefruit-with-Honey-and-Thyme-768x1152.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://cookingchew.com/wp-content/uploads/2021/10/Grapefruit-Recipes-CO1333-Pin-8.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://www.notenoughcinnamon.com/wp-content/uploads/2013/03/Maple-Cinnamon-Baked-Grapefruit-6.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://data.thefeedfeed.com/static/2020/01/27/15498169565c60547c33145.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://www.onceuponachef.com/images/2021/08/Grapefruit-Crush-1200x1500.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://www.arealfoodjourney.com/wp-content/uploads/2017/03/baked-grapefruit-1.png
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://www.thecomfortofcooking.com/wp-content/uploads/2016/04/SuperMoistGrapefruitCake-7-600x872.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://publish.purewow.net/wp-content/uploads/sites/2/2019/11/grapefruit-recipes-frose-palomas-recipe.jpg?fit=728%2C921
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://cdn.thefreshmancook.com/wp-content/uploads/2024/04/Grilled-Grapefruit-Paloma-Recipe-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://www.tasteofhome.com/wp-content/uploads/2018/01/Sweet-Broiled-Grapefruit_EXPS_SDFM18_991_B10_06_2b-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://b3133059.smushcdn.com/3133059/wp-content/uploads/2021/10/Grapefruit-Dish-Ideas.jpg?lossy=2&amp;strip=1&amp;webp=1
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://www.tasteofhome.com/wp-content/uploads/2018/01/Grapefruit-Yogurt-Cake_EXPS_THFM18_170713_C10_24_6b-6.jpg?w=1200
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://foxeslovelemons.com/wp-content/uploads/2018/01/Grapefruit-Sangria-4-1025x1536.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from http://images.ctfassets.net/uw7yiu2kuigc/1CnRTn32tN35ZQhtjoqWkV/69256d43c543509eea3cb87388bc5c3f/Grapefruit-Cucumber-Salad-Lead.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://www.daringgourmet.com/wp-content/uploads/2013/02/Grapefruit-Cream-Pie-3_edited.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://i5.walmartimages.com/asr/aa0d9a4b-5d44-40b9-b2b1-3234f001dde1_1.3e30f9512829d09a37dcebe32541b25c.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://i5.walmartimages.com/asr/918e9675-ad81-424e-acb5-afd9d8904d9d_2.b103c0ae8df75e234c7b4f37c19c8da2.png
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://www.gardensall.com/wp-content/uploads/2023/02/how-to-make-grapefruit-Seed-Extract.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://i5.walmartimages.com/asr/db68b139-5ada-4e15-aef8-eda998c907ab.e30365157ea6fc8a56bcc1932bb9859b.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from http://www.biovea.com/au/images/products/xlrg/3662_z.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://www.healthleadsuk.com/media/catalog/product/cache/1ab28c190c3ffc8c4d68a789d0c3ff49/1/5/150ml-duma-grapefruitseedextract-en-0605-c.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://i.etsystatic.com/17305714/r/il/9cf840/2948213321/il_fullxfull.2948213321_pynd.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://i0.wp.com/www.lovingdovefarmasia.com/wp-content/uploads/2021/01/Grapefruit-Seed-Ext-2oz-pic.png?fit=2100%2C2454&amp;ssl=1
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://s3.images-iherb.com/sor/sor11607/l/10.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://i0.wp.com/daddybutterlife.com/wp-content/uploads/2022/05/Grapefruit-Seed-Extract-3-scaled.jpg?resize=2048%2C2048&amp;ssl=1
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://naturmedscientific.com/wp-content/uploads/2024/05/Grapefruit-Seed-Extract-Citrus-paradisi-scaled-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://i0.wp.com/daddybutterlife.com/wp-content/uploads/2022/05/Grapefruit-Seed-Extract-scaled.jpg?w=1080&amp;ssl=1
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://health4all.co.uk/wp-content/uploads/2015/06/Grapefruit-Seed-500mg-90capsules-1024x1024.jpg
+[!] Issue getting: https://health4all.co.uk/wp-content/uploads/2015/06/Grapefruit-Seed-500mg-90capsules-1024x1024.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #41 from https://i0.wp.com/daddybutterlife.com/wp-content/uploads/2022/05/Grapefruit-Seed-Extract-2-scaled.jpg?fit=1080%2C1080&amp;ssl=1
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://www.nbnus.net/images/GSE-C.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://m.media-amazon.com/images/I/71+LW+JbfAL._AC_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://www.thecandidadiet.com/wp-content/uploads/2013/01/grapefruit-seed-gse.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.bulksupplements.com/cdn/shop/files/Grapefruit-Seed-Extract-Powder-AMZ-1kg.jpg?v=1694013856&amp;width=1000
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://www.drweil.com/wp-content/uploads/2017/01/vitamins-supplements-herbs_supplements-remedies_is-grapefruit-seed-extract-any-good_1440x1080_496165792.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://i.pinimg.com/originals/31/c0/20/31c0202deae0a4cf356fd9a24359c95b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://izzycooking.com/wp-content/uploads/2021/12/Grapefruit-Juice-2-768x1152.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://nkechiajaeroh.com/wp-content/uploads/2021/01/Grapefruit-juice-recipe-photo-6-683x1024.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://healthwire.pk/wp-content/uploads/2022/07/benefits-of-grapefruit-juice.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

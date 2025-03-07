@@ -1,0 +1,180 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Pomegranate fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://cdn.britannica.com/96/201196-050-C0441508/Batch-pomegranate-fruits.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://www.thespruce.com/thmb/j4cerYnQlZpKSgqzSRrbEilxkV8=/4419x2950/filters:no_upscale():max_bytes(150000):strip_icc()/pomegranate-growing-tips-3269232-03-6d5e7c71e235486d95f19343f77f2281.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://fthmb.tqn.com/XrgX1k1EsZAfYu-SwqzuxKHYJjs=/960x0/filters:no_upscale()/pomegranatesx-56a495353df78cf772831bc6.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://cdn.pixabay.com/photo/2017/02/27/12/28/pomegranate-2103105_1280.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from http://photos.demandstudios.com/getty/article/144/187/518701969.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://tastylicious.com/wp-content/uploads/2022/07/pomegranate-fruits-and-seeds.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://www.savoryexperiments.com/wp-content/uploads/2020/05/pomegranate.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://static.vecteezy.com/system/resources/previews/002/158/926/original/top-view-of-pomegranate-fruit-free-photo.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://www.kew.org/sites/default/files/2019-12/Pomegranate fruit (1).jpg
+[!] Issue getting: https://www.kew.org/sites/default/files/2019-12/Pomegranate fruit (1).jpg
+[!] Error:: URL can't contain control characters. '/sites/default/files/2019-12/Pomegranate fruit (1).jpg' (found at least ' ')
+[%] Downloading Image #9 from https://i0.wp.com/www.theayurveda.org/wp-content/uploads/2015/06/Ripe-pomegranate-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://morningchores.com/wp-content/uploads/2019/11/pomegranate-trees-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://www.publicdomainpictures.net/pictures/50000/velka/pomegranate-flower.jpg
+[!] Issue getting: https://www.publicdomainpictures.net/pictures/50000/velka/pomegranate-flower.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #11 from https://www.publicdomainpictures.net/pictures/100000/velka/open-pomegranate-flower.jpg
+[!] Issue getting: https://www.publicdomainpictures.net/pictures/100000/velka/open-pomegranate-flower.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #11 from https://cdn.pixabay.com/photo/2021/08/08/15/32/pomegranate-flowers-6531207_1280.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://worldoffloweringplants.com/wp-content/uploads/2016/04/Pomegranate.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from http://worldoffloweringplants.com/wp-content/uploads/2014/07/Punica-granatum-Pomegranate1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://news.cgtn.com/news/7a596a4e31417a4d7a55544e77417a4e3563444f31457a6333566d54/img/fc9bce49c4d3466ca0cb4cba6b01cd5f/fc9bce49c4d3466ca0cb4cba6b01cd5f.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://www.garden.eco/wp-content/uploads/2018/04/pomegranate-flower.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://thumbs.dreamstime.com/b/pomegranate-tree-flower-pomegranate-flowers-green-leaves-nature-agriculture-119948470.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://cdn11.bigcommerce.com/s-jmzfi5zcr2/images/stencil/2560w/products/987/4321/Dwarf_Pomegranate_Tree_Bloom_Close_Up__16443.1585416836.jpg?c=2
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://thumbs.dreamstime.com/z/flowers-pomegranate-tree-orange-52502269.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://cdn11.bigcommerce.com/s-jmzfi5zcr2/images/stencil/1920w/products/987/4320/Dwarf_Pomegranate_Tree_Flowers__74323.1585416833.jpg?c=2
+[%] File Downloaded !
+
+[%] Downloading Image #20 from http://www.wallpaperbetter.com/wallpaper/886/64/989/pomegranate-flower-granatapfel-blume-nar-Çiçeği-1080P-wallpaper.jpg
+[!] Issue getting: http://www.wallpaperbetter.com/wallpaper/886/64/989/pomegranate-flower-granatapfel-blume-nar-Çiçeği-1080P-wallpaper.jpg
+[!] Error:: 'ascii' codec can't encode character '\xc7' in position 67: ordinal not in range(128)
+[%] Downloading Image #20 from https://get.pxhere.com/photo/plant-fruit-flower-food-red-produce-evergreen-dharwad-flora-pomegranate-flowers-shrub-india-flowering-plant-woody-plant-land-plant-1019973.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://live.staticflickr.com/6038/6282736384_7d6f090bd9_b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://s-media-cache-ak0.pinimg.com/originals/28/85/9a/28859a5455df15b972977c5b756a4b4c.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from http://cdn.shopify.com/s/files/1/0158/9452/articles/es8Dzrc4TvFCgMfwijxcl1drpTfdwdGp1646405356_1200x1200.jpg?v=1646856089
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://www.publicdomainpictures.net/pictures/510000/velka/pomegranate-flower-1682078405JN1.jpg
+[!] Issue getting: https://www.publicdomainpictures.net/pictures/510000/velka/pomegranate-flower-1682078405JN1.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #24 from https://www.kew.org/sites/default/files/styles/original/public/2019-12/Pomegranate flower %281%29.jpg.webp?itok=wguBKQ0q
+[!] Issue getting: https://www.kew.org/sites/default/files/styles/original/public/2019-12/Pomegranate flower %281%29.jpg.webp?itok=wguBKQ0q
+[!] Error:: URL can't contain control characters. '/sites/default/files/styles/original/public/2019-12/Pomegranate flower %281%29.jpg.webp?itok=wguBKQ0q' (found at least ' ')
+[%] Downloading Image #24 from https://wallpapercave.com/wp/wp4447770.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://get.pxhere.com/photo/blossom-plant-flower-bloom-red-produce-botany-flora-pomegranate-shrub-fruit-tree-flowering-plant-pomegranate-blossom-land-plant-japanese-camellia-1025865.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://cdn.loveandlemons.com/wp-content/uploads/2018/11/IMG_14758-cropped-final2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://www.the-girl-who-ate-everything.com/wp-content/uploads/2016/02/pomegranate-salad.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from http://www.melaniecooks.com/wp-content/uploads/2017/12/pomegranate_fruit_salad_recipe2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://www.aspicyperspective.com/wp-content/uploads/2018/11/pomegranate-cream-tart-recipe-7.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://www.tasteofhome.com/wp-content/uploads/2018/01/Pomegranate-Splash-Salad_EXPS_THCA19_130161_B01_31_3b-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://www.thecreativebite.com/wp-content/uploads/2017/12/Pomegranate-Goat-Cheese-Crostini-The-Creative-Bite-5-copy-735x1110.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://therecipecritic.com/wp-content/uploads/2022/11/pomegranatesaladhero.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from http://assets.marthastewart.com/styles/wmax-520-highdpi/d37/citrus-salad-a130522-04-8639-md110267/citrus-salad-a130522-04-8639-md110267_vert.jpg?itok=qJ6Bo1G2
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://www.eatwell101.com/wp-content/uploads/2020/11/Fresh-Pomegranate-Relish-recipe.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://cookieandkate.com/images/2018/12/pomegranate-pear-arugula-salad-recipe-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://i.pinimg.com/originals/57/c0/38/57c038824155ec618a430eb22595da7a.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://www.recipetineats.com/wp-content/uploads/2020/11/Pomegranate-Salad-Kale-Spinach_6.jpg?w=900
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://www.bhg.com/thmb/mhFyQotWMzbVZ5M9caVBCkjpWCQ=/1244x0/filters:no_upscale():strip_icc()/cornmeal-butter-cake-pomegranate-sauce-RU262672-e268056e77284d0db1519d6fab25558d.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://i.pinimg.com/736x/ed/93/1a/ed931aa8cd8b2a1d7d9421063d34cb98.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://insanelygoodrecipes.com/wp-content/uploads/2021/03/Pomegranate-Recipes-2.png
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://hips.hearstapps.com/hmg-prod/images/pomegranate-recipes-beautiful-brussels-sprouts-1666103012.jpeg?crop=0.750xw:0.932xh;0.0901xw,0.0372xh&amp;resize=980:*
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://i.pinimg.com/originals/67/35/0b/67350b9c061a3e9e9a9e889c68e3d873.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://www.recipetineats.com/wp-content/uploads/2020/11/Pomegranate-Salad-Kale-Spinach_4.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://i.pinimg.com/originals/25/03/75/2503756abc2ae021ea1bdcf13dea6543.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.the-girl-who-ate-everything.com/wp-content/uploads/2016/02/pomegranate-salad-002-732x1024.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://afoodcentriclife.com/wp-content/uploads/2012/11/pomegranates.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://c8.alamy.com/comp/H97HT2/fresh-pomegranate-seeds-in-wooden-bowl-edible-red-seeds-from-the-fruit-H97HT2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://www.jessicagavin.com/wp-content/uploads/2012/11/pomegranate-seeds-1200.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://cdn.britannica.com/35/183135-050-721E667B/arils-pomegranate-seeds.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://www.fannetasticfood.com/wp-content/uploads/2021/09/Pomegranate-Seeds-Featured-Image.png
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

@@ -1,0 +1,173 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Kiwi fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 35 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://healthjade.net/wp-content/uploads/2017/09/kiwi-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://cdn.britannica.com/73/160673-050-22F29F6B/Cluster-kiwis.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://www.healthifyme.com/blog/wp-content/uploads/2020/01/Kiwi-fruit-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from http://sophieuliano.com/wp-content/uploads/2016/01/kiwifruit-1000x727.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://www.fruitrunner.co.uk/wp-content/uploads/2017/08/1499083380.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://recipematic.com/wp-content/uploads/2019/07/How-to-Choose-Store-How-to-Use-Kiwi-Fruit-Benefits-of-Kiwi-Fruit-Calories-and-Nutrition-Facts-tips.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://static.vecteezy.com/system/resources/previews/012/592/389/large_2x/fresh-kiwi-fruit-slices-closeup-macro-background-photo.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://www.conservation-nature.fr/wp-content/uploads/visuel/fruit/shutterstock_1470172706.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://harvesttotable.com/wp-content/uploads/2019/10/bigstock-Juicy-fruits-of-kiwi-fruit-Ki-233114923-scaled.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://healthyliving.natureloc.com/wp-content/uploads/2015/10/Kiwi-Green-Gold-Splashes.jpg
+[!] Issue getting: https://healthyliving.natureloc.com/wp-content/uploads/2015/10/Kiwi-Green-Gold-Splashes.jpg
+[!] Error:: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)>
+[%] Downloading Image #10 from http://photos.demandstudios.com/getty/article/251/49/93530895.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://www.wallpaperflare.com/static/502/36/944/fruit-food-freshness-kiwi-fruit-wallpaper.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://usercontent1.hubstatic.com/8128254_f496.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://static.fanpage.it/wp-content/uploads/sites/22/2021/02/iStock-1276945116.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://www.gardeningknowhow.com/wp-content/uploads/2021/06/kiwifruit-growing-1536x1152.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://heathermangieri.com/wp-content/uploads/2013/06/IMG_7234.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://healthjade.com/wp-content/uploads/2017/09/Actinidia-deliciosa-green-kiwi-fruit-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from http://www.lovemysalad.com/sites/default/files/15433078_xxl1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://naturebring.com/wp-content/uploads/2019/05/Kiwi-fruit-nb-023.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from http://www.weaversorchard.com/wp-content/uploads/2014/04/Kiwifruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://www.theproducemoms.com/wp-content/uploads/2022/01/kiwi-1024x1024.png
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://images.freeimages.com/images/large-previews/ef9/kiwi-fruit-1328818.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://scx2.b-cdn.net/gfx/news/hires/2018/kiwifruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from http://clipart-library.com/img/2004392.png
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://cdn.britannica.com/45/126445-050-4C0FA9F6/Kiwi-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://images.news18.com/ibnlive/uploads/2021/09/kiwi-163299398516x9.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #26 from http://pluspng.com/img-png/kiwi-png-kiwi-fruit-png-image-1650.png
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://www.nationalgardens.in/174-large_default/kiwi-fruit-seeds.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://www.wallpaperflare.com/static/545/413/201/kiwi-fruit-green-food-macro-seeds-wallpaper.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://img.freepik.com/free-vector/realistic-fruits-composition-with-images-whole-sliced-kiwi-fruit-blank-background-vector-illustration_1284-66048.jpg?w=2000
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://img.freepik.com/premium-photo/kiwi-fruit_693588-486.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://www.thespruceeats.com/thmb/6XFoyMe1duzFbpqeABXyfzsPv4A=/2118x1418/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-535657883-56abdc3f5f9b58b7d00a0078.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from http://pluspng.com/img-png/kiwi-hd-png-kiwi-fruit-png-transparent-image-1380.png
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://c8.alamy.com/comp/R0J31M/fresh-kiwi-fruit-cut-in-half-isolated-on-white-background-clipping-path-full-depth-of-field-R0J31M.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/271232_2200-1200x628.jpg
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 2
+
+[%] Indexed 95 Images on Page 2.
+
+===============================================
+
+[%] Downloading Image #35 from https://www.sciencelearn.org.nz/system/images/images/000/000/561/full/Kiwifruit-varieties20151125-6195-150wgju.jpg?1448436884
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://www.herbazest.com/imgs/1/8/c/830841/kiwi_varieties.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://asoothingfood.com/wp-content/uploads/2023/04/different-types-of-kiwi-fruits.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://usercontent2.hubstatic.com/8165737_f520.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://www.tastingtable.com/img/gallery/most-of-the-worlds-kiwi-come-from-this-country/intro-1666303251.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://thumbs.dreamstime.com/b/different-varieties-kiwi-lie-pile-table-halves-red-yellow-green-kiwi-fruit-varieties-different-varieties-275525723.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://plantura.garden/uk/wp-content/uploads/sites/2/2023/10/types-of-kiwi-1024x683.jpg?x63657
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://housegrail.com/wp-content/uploads/2022/08/Green-Kiwi_Mehmet-Cetin_Shutterstock.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://asian-recipe.com/wp-content/uploads/2022/03/Kiwi-Berries.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://www.tastingtable.com/img/gallery/4-popular-types-of-kiwi-fruit-explained/l-intro-1710343114.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://cdn.mos.cms.futurecdn.net/zWVBDFiLhJQvjnVoKM5cBk-1600-80.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from http://gardenandhappy.com/wp-content/uploads/2018/11/kiwi_plant_1542034856-1024x682.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://thumbs.dreamstime.com/z/three-varieties-kiwi-fruit-vertical-three-varieties-kiwi-fruit-table-vertical-copy-space-232150886.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from http://growingfruit-images.s3-us-west-2.amazonaws.com/original/3X/3/0/3000d2e0118ede2d98c566298ac53b67ed9c151b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from http://kiwi-fruit.info/wp-content/uploads/2015/08/kiwifruit-species.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://www.thespruce.com/thmb/5Uny-m9gYobEovesHdPGwNglAlc=/4516x3006/filters:fill(auto,1)/growing-kiwi-vines-in-your-landscape-3269410-hero-fcf299ebba084f5aa940d5432a4fd7dc.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

@@ -1,0 +1,168 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Banana fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 95 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://edunovations.com/notes/wp-content/uploads/2023/05/Banana.webp
+[!] Issue getting: https://edunovations.com/notes/wp-content/uploads/2023/05/Banana.webp
+[!] Error:: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+[%] Downloading Image #1 from https://static.fanpage.it/wp-content/uploads/sites/22/2018/06/istock-162487071.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from http://www.infoescola.com/wp-content/uploads/2010/04/banana_600797891.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://get.pxhere.com/photo/plant-fruit-food-produce-yellow-banana-mature-flowering-plant-banana-da-terra-land-plant-banana-family-cooking-plantain-bunch-of-bananas-1294883.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://get.pxhere.com/photo/plant-fruit-food-produce-tropical-market-banana-health-power-bananas-flowering-plant-cultivated-banana-land-plant-banana-family-cooking-plantain-1049862.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://wallup.net/wp-content/uploads/2017/11/23/438223-bananas-fruit-food.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://cdn.pixabay.com/photo/2017/03/01/16/34/banana-2109006_960_720.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://c8.alamy.com/comp/PRFTN4/bunch-of-fresh-ripe-banana-fruits-isolated-on-white-background-PRFTN4.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://healthjade.com/wp-content/uploads/2017/09/banana.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://www.schoolphotoproject.com/_picture-of-fruits/green-banana-photo2-l.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://c.pxhere.com/photos/17/2b/bananas_fruits_fruit_healthy_yellow_banana_peel_ripe_nature-498833.jpg!d
+[%] File Downloaded !
+
+[%] Downloading Image #11 from http://mymodernmet.com/wp/wp-content/uploads/2016/12/isteef-banana-art-2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://images.joseartgallery.com/71672/conversions/still-life-painting-banana-painting-food-art-thumb1920.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://images.indianexpress.com/2017/12/isteef_alphons_mucha.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://www.demilked.com/magazine/wp-content/uploads/2015/02/food-art-banana-stephan-brusche-fb.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://images.joseartgallery.com/74607/conversions/still-life-painting-banana-original-art-thumb1920.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://wentbananas.com/wp-content/uploads/2020/08/banana-ideas-1920x1495.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://images.fineartamerica.com/images-medium-large-5/banana-pop-art-jean-luc-comperat.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://assets.vogue.in/photos/5df08d236ffadb00085fb20c/2:3/w_2560%2Cc_limit/01-%252010492891h.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://i.dailymail.co.uk/1s/2024/11/24/13/92324459-0-image-a-1_1732454711691.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://static.vecteezy.com/system/resources/previews/007/725/542/original/yellow-banana-drawing-cartoon-artwork-vector.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://static01.nyt.com/images/2024/11/20/multimedia/20auction-bananA-01-kzgj/20auction-bananA-01-kzgj-verticalTwoByThree735.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://4.bp.blogspot.com/_wcFGoXsMT-U/S8wt1S6oX8I/AAAAAAAAAAo/SnPDhv6Zyw0/s1600/Art+Bananas+012.JPG
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://nypost.com/wp-content/uploads/sites/2/2023/05/NYPICHPDPICT000010428608.jpg?quality=75&amp;strip=all
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://static.vecteezy.com/system/resources/previews/001/541/072/original/bunch-of-bananas-cartoon-style-isolated-on-white-background-free-vector.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://i.pinimg.com/originals/9a/d1/82/9ad18255da76babbde3db2acd5e65298.png
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://static.vecteezy.com/system/resources/previews/000/515/864/original/bananas-vector-illustration.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://www.thevintagenews.com/wp-content/uploads/2019/12/pjimage-75.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from http://clipart-library.com/images/8TzKq9qpc.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://thumbs.dreamstime.com/z/cartoon-bananas-bundle-vector-clip-art-illustration-simple-gradients-all-single-layer-76537191.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://static.vecteezy.com/system/resources/previews/001/929/225/large_2x/bunch-of-bananas-isolated-on-white-background-free-vector.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://www.onlyfoods.net/wp-content/uploads/2020/08/Types-of-Banana.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://balconygardenweb.b-cdn.net/wp-content/uploads/2020/04/A-Guide-to-17-Different-Types-of-Bananas2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://www.liveeatlearn.com/wp-content/uploads/2023/08/Types-Of-Bananas-650x860.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://www.thespruceeats.com/thmb/TSILXJvjNaItoFBPE01pR046uTA=/2003x1502/filters:no_upscale():max_bytes(150000):strip_icc()/DifferentBananas-56fb61d95f9b58298681b726.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://www.butter-n-thyme.com/wp-content/uploads/2022/12/Types-of-Bananas.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://northernnester.com/wp-content/uploads/2020/11/banana-varieties.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://www.thespruceeats.com/thmb/v367onY5Zqgy2TyntTz529Fh-6w=/3775x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cooking-Bananas-578fd68c3df78c09e97422a4.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://revemx.com/wp-content/uploads/2024/03/100-Different-Types-of-Banana-Varieties-in-The-World.webp
+[!] Issue getting: https://revemx.com/wp-content/uploads/2024/03/100-Different-Types-of-Banana-Varieties-in-The-World.webp
+[!] Error:: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'revemx.com'. (_ssl.c:1000)>
+[%] Downloading Image #38 from https://krishijagran.com/media/4029/varities-banana.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://www.thespruceeats.com/thmb/1sZmW8FmfIE4ZPEPyRUyd5jO6y8=/2091x0/filters:no_upscale():max_bytes(150000):strip_icc()/AppleBananas-56fb5fca3df78c7841a5963b.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://www.thespruceeats.com/thmb/qHoGpvI8JL4tunltEQmouoRne_M=/5412x0/filters:no_upscale():max_bytes(150000):strip_icc()/lady-s-finger-bananas-in-bowl-on-banana-leaves-126553018-5b16e356ba6177003df38712.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://www.onlyfoods.net/wp-content/uploads/2020/08/Apple-Banana.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://toptenfamous.com/wp-content/uploads/2021/05/AdobeStock_245734346.0-1024x1024.jpeg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from https://thumbs.dreamstime.com/z/many-varieties-bananas-fruits-market-70285749.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://www.thespruceeats.com/thmb/Z10vDgKTLGe9RiVmS_gvsqMi5hc=/2498x0/filters:no_upscale():max_bytes(150000):strip_icc()/bunch-of-bananas-on-cloth-sb10064386aq-001-5b16e41c04d1cf0037d4add7.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.popoptiq.com/wp-content/uploads/2019/01/4-28-1-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://pbs.twimg.com/media/EW9Dt52VAAI-Be3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://www.ifexconnect.com/assets/images/stories/masthead/large/83bb1c8e1a7654df8db943aeebffe0bf.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://www.popoptiq.com/wp-content/uploads/2019/01/8-28-1-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from http://australianbananas.com.au/files/images/ladyfinfers2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://horticulture.co.uk/wp-content/uploads/2020/11/bananaplant-header-1600x1065.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

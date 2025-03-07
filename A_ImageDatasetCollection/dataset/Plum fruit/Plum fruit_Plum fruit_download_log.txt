@@ -1,0 +1,186 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Plum fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 94 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://www.simplyrecipes.com/thmb/pO360aIrM3ELcMawJY02X77XdYU=/4200x2800/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Plum-Guide--LEAD-7-d738bebb5785456280174b158dfc98a6.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://www.wallpaperflare.com/static/124/114/437/plums-fruits-fruit-prunus-laurocerasus-round-wallpaper.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://insanelygoodrecipes.com/wp-content/uploads/2022/10/Fresh-Organic-Purple-Plums-1024x1024.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://www.nature-and-garden.com/wp-content/uploads/sites/4/2018/10/plum-tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://cdn.pixabay.com/photo/2019/07/17/18/39/plum-4344623_1280.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://cdn11.bigcommerce.com/s-sv0chyyd/images/stencil/2048x2048/products/1296/1899/Sugar_Plum__10952.1614912402.jpg?c=2
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://lh5.googleusercontent.com/Mn2y-fDGP0HWdelZnFneej4-d_bGW8QyH8yGXmTZT1XourObqVi1oym99OYs-ef_IGrc0hmxj0ie2sstUT7Gq_EdHlMNrehVNKOV2Dr8lC178UMdhYxoQWfVCzHKVt4zxZIxV60
+[%] File Downloaded !
+
+[%] Downloading Image #8 from http://veg4health.com/wp-content/uploads/2010/03/Plums.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://fthmb.tqn.com/rEeMP7cQ__MBbHqAjeO1R4i1VoU=/4256x2832/filters:fill(87E3EF,1)/plums-152007076-58516c965f9b58a8cd7305b5.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://www.waimeanurseries.co.nz/assets/bulkUpload/Plum-Purple-King.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from https://cdn.shopify.com/s/files/1/0022/0774/4115/products/beauty3_1024x1024@2x.jpg?v=1543382291
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://www.photos-public-domain.com/wp-content/uploads/2012/05/pink-plum-blossoms.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://www.thespruce.com/thmb/udNHvcBTP9W2Vth5FY1Pc-gtvWQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1386791314-70b823fdbb2241d6b51cecf273da3191.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://wallpaperaccess.com/full/9128443.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://blog.gaijinpot.com/wp-content/uploads/sites/4/2014/03/plum-blossom.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://www.photos-public-domain.com/wp-content/uploads/2012/05/plum-blossoms.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from http://www.kanpai-japan.com/sites/default/files/styles/og/public/uploads/2015/07/plum-blossoms-japan-7.jpg?itok=eIZcBCgs
+[%] File Downloaded !
+
+[%] Downloading Image #18 from http://www.photos-public-domain.com/wp-content/uploads/2012/05/thundercloud-plum-blossoms.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://cdn.pixabay.com/photo/2022/04/22/03/58/plum-blossoms-7148748_1280.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from http://helonational.com/wp-content/uploads/2017/01/plum-blossom-National-flower-of-taiwan.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://www.photos-public-domain.com/wp-content/uploads/2012/04/cistena-plum-blossoms.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://images.creativemarket.com/0.1.0/ps/6792273/1820/2730/m1/fpnw/wm1/ts237eoolkpiyfnoke82aykysaltu3ga6gicbxvyrp6yptrpxqrz7kafq1dglgsf-.jpg?1565273308&amp;s=4b0d2f0e24750a8b5f144233c4fd4628
+[!] Issue getting: https://images.creativemarket.com/0.1.0/ps/6792273/1820/2730/m1/fpnw/wm1/ts237eoolkpiyfnoke82aykysaltu3ga6gicbxvyrp6yptrpxqrz7kafq1dglgsf-.jpg?1565273308&amp;s=4b0d2f0e24750a8b5f144233c4fd4628
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #22 from https://images.freeimages.com/images/large-previews/7cd/plum-blossoms-1-1406720.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://www.chfruittreenursery.com/wp-content/uploads/2023/02/GettyImages-1315744451-2cd0500a7a5b464799ec5c26fcb2a3d0.jpg
+[Error]Invalid image, not saving https://www.chfruittreenursery.com/wp-content/uploads/2023/02/GettyImages-1315744451-2cd0500a7a5b464799ec5c26fcb2a3d0.jpg
+
+[!] Issue getting: https://www.chfruittreenursery.com/wp-content/uploads/2023/02/GettyImages-1315744451-2cd0500a7a5b464799ec5c26fcb2a3d0.jpg
+[!] Error:: Invalid image, not saving https://www.chfruittreenursery.com/wp-content/uploads/2023/02/GettyImages-1315744451-2cd0500a7a5b464799ec5c26fcb2a3d0.jpg
+
+[%] Downloading Image #23 from http://www.samebluesky.com/wp-content/uploads/2012/03/IMG_7583.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://thumbs.dreamstime.com/z/plum-blossom-14511882.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from http://blog.siltanen-photo.net/attachments/Image/IMGP5632.jpg?template=generic
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://images.freeimages.com/images/large-previews/cb1/plum-blossom-1311060.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from https://japansaucedotnet.files.wordpress.com/2017/01/2006_03_24_ume_blossom_zuishinin_temple_dsc_0006.jpg
+[!] Issue getting: https://japansaucedotnet.files.wordpress.com/2017/01/2006_03_24_ume_blossom_zuishinin_temple_dsc_0006.jpg
+[!] Error:: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+[%] Downloading Image #27 from https://i.pinimg.com/originals/6f/55/3f/6f553f6e1704be0c4809ecd89eaf6994.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://images.freeimages.com/images/large-previews/7f5/plum-blossoms-2-1406710.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://www.simplyrecipes.com/thmb/PM2FXol98G62cRBwvYDp0mAnQoQ=/3900x2600/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Plum-Guide--LEAD-6-2d94d67aac064620abee90526c29030a.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from https://www.simplyrecipes.com/thmb/xvRnKaLStLcztLJ1BfT5NMb6urc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Plum-Guide--LEAD-8-Labelled-13a170de4cad4f9490bd8acea333170c.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from https://www.simplyrecipes.com/thmb/CXcYT8ypD37UZ7B2RkMDUVc5zGw=/4200x2800/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Plum-Guide--LEAD-5-98920419fc5940838fc1ca1ce5043447.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from https://www.thespruceeats.com/thmb/4Cdko5ud28AuvYRf6_tA9_BzohM=/3342x2257/filters:no_upscale():max_bytes(150000):strip_icc()/Moyer-Plums-588bc7793df78caebcaba6e2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://www.simplyrecipes.com/thmb/HrnoXrzODqS4eykt8Mg1jhGIrFY=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Plum-Guide--LEAD-2-734d802eadd64a03a2dcd7efcbe2392d.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #34 from https://www.thespruceeats.com/thmb/_8cv1VgdlChKpP5tF4d0gjXYEDs=/5196x3464/filters:no_upscale():max_bytes(150000):strip_icc()/greengage-plums-56a5b4b85f9b58b7d0de0cff.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://blog.firsttunnels.co.uk/wp-content/uploads/2022/09/juicy-plums-g3342ea439_1920.jpg
+[!] Issue getting: https://blog.firsttunnels.co.uk/wp-content/uploads/2022/09/juicy-plums-g3342ea439_1920.jpg
+[!] Error:: Remote end closed connection without response
+[%] Downloading Image #35 from https://images.slurrp.com/prodarticles/geel71lobq9.webp
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://cdn.mos.cms.futurecdn.net/Gn5QqPbNRjffqwRNaiTTv7-1600-80.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://cdn.mos.cms.futurecdn.net/efDdPo5bz3NXc6HjK7sxLN.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://i.pinimg.com/originals/c7/0a/5c/c70a5cf2ac475aaae585e5ff7b78768c.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://insanelygoodrecipes.com/wp-content/uploads/2022/10/Fresh-Organic-Purple-Plums-768x768.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://i.pinimg.com/originals/b3/25/60/b32560143b472c4bb265807310ed5cac.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from https://www.progardentips.com/wp-content/uploads/2020/01/European-Plum-Trees-768x1024.jpg
+[!] Issue getting: https://www.progardentips.com/wp-content/uploads/2020/01/European-Plum-Trees-768x1024.jpg
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #41 from https://www.thespruceeats.com/thmb/8VEXYGJ0fzGrOamNtfiK4rEBIvs=/2121x1416/filters:no_upscale():max_bytes(150000):strip_icc()/mirabelles-56a5b4ba5f9b58b7d0de0d02.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://www.waimeanurseries.co.nz/assets/our-products/fruit-trees/plums/ruby-queen/Plum-Ruby-Queen-2.JPG
+[%] File Downloaded !
+
+[%] Downloading Image #43 from http://www.almanac.com/sites/default/files/image_nodes/plums-growing-planting-plums.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from https://www.thespruceeats.com/thmb/dLMcvGgBUNO3E07_PnRniHubL9k=/6016x4016/filters:fill(auto,1)/stovetop-stewed-plums-cinnamon-3056942-hero-01-bc808a6b7f3445f8ad8b866a356dcc46.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.davidlebovitz.com/wp-content/uploads/2020/09/Oven-roasted-plums-recipe.jpg
+[Error]Invalid image, not saving https://www.davidlebovitz.com/wp-content/uploads/2020/09/Oven-roasted-plums-recipe.jpg
+
+[!] Issue getting: https://www.davidlebovitz.com/wp-content/uploads/2020/09/Oven-roasted-plums-recipe.jpg
+[!] Error:: Invalid image, not saving https://www.davidlebovitz.com/wp-content/uploads/2020/09/Oven-roasted-plums-recipe.jpg
+
+[%] Downloading Image #45 from https://cdn.momsdish.com/wp-content/uploads/2021/08/Classic-Plum-Crumble-Recipe-011.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from https://sustainmycookinghabit.com/wp-content/uploads/2020/10/Simple-plum-cake-recipe-2183-973x1536.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://www.theflavorbender.com/wp-content/uploads/2019/10/Spiced-Plum-Jam-4240.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://insanelygoodrecipes.com/wp-content/uploads/2021/04/Plum-Crumble-in-a-Baking-Pan.png
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://www.savingdessert.com/wp-content/uploads/2017/08/Plum-Cobbler-5-800x1200.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://www.thebakerchick.com/wp-content/uploads/2014/09/SpicedPlumCake2.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.

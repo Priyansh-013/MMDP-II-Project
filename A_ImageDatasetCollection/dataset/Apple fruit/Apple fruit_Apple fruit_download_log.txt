@@ -1,0 +1,182 @@
+[%] Downloading Images to e:\Acads\6th_Sem\DA323_MMDPII\Project\MMDP-II-Project\A_ImageDatasetCollection\dataset\Apple fruit
+
+
+[!!]Indexing page: 1
+
+[%] Indexed 35 Images on Page 1.
+
+===============================================
+
+[%] Downloading Image #1 from https://images.pexels.com/photos/39803/pexels-photo-39803.jpeg?cs=srgb&amp;dl=apple-food-fruit-39803.jpg&amp;fm=jpg
+[%] File Downloaded !
+
+[%] Downloading Image #2 from https://healthjade.com/wp-content/uploads/2017/10/apple-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #3 from https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg?cs=srgb&amp;dl=food-apple-fruit-102104.jpg&amp;fm=jpg
+[%] File Downloaded !
+
+[%] Downloading Image #4 from https://www.wallpaperflare.com/static/947/293/305/pple-leaves-tail-slice-wallpaper.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #5 from https://images.heb.com/is/image/HEBGrocery/000377503-1?$article-235-square$
+[%] File Downloaded !
+
+[%] Downloading Image #6 from https://get.pxhere.com/photo/apple-plant-fruit-sweet-ripe-bowl-food-red-produce-natural-fresh-juicy-healthy-snack-delicious-freshness-red-apple-nutrition-single-tasty-apples-diet-vitamins-flowering-plant-rose-family-land-plant-frutti-di-bosco-bowl-of-apples-833795.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #7 from https://www.mashed.com/img/gallery/popular-types-of-apples-and-what-theyre-used-for/l-intro-1634566536.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #8 from https://images.pexels.com/photos/588587/pexels-photo-588587.jpeg?cs=srgb&amp;dl=apple-blur-bright-588587.jpg&amp;fm=jpg
+[%] File Downloaded !
+
+[%] Downloading Image #9 from https://i0.wp.com/www.theayurveda.org/wp-content/uploads/2015/08/Apple-fruit.jpg?fit=2880%2C1800&amp;ssl=1
+[%] File Downloaded !
+
+[%] Downloading Image #10 from https://www.farmersalmanac.com/wp-content/uploads/2020/11/Adocortland_apples-as225320764.jpeg
+[!] Issue getting: https://www.farmersalmanac.com/wp-content/uploads/2020/11/Adocortland_apples-as225320764.jpeg
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #10 from https://cff2.earth.com/uploads/2019/06/19132041/How-the-apple-became-such-a-ubiquitous-iconic-fruit-across-the-globe.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #11 from http://images5.fanpop.com/image/photos/31100000/apples-fruit-31188668-1707-2560.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #12 from https://images.creativemarket.com/0.1.0/ps/7573288/1820/2097/m1/fpnw/wm1/lajfx3b9kpzaswmwqfbjujfrtlhhik0koznfm5lmnnmv1jvxunbdq1s1pnnjsaye-.jpg?1578827319&amp;s=104af3cc6109eb777f3f518f776d8165
+[!] Issue getting: https://images.creativemarket.com/0.1.0/ps/7573288/1820/2097/m1/fpnw/wm1/lajfx3b9kpzaswmwqfbjujfrtlhhik0koznfm5lmnnmv1jvxunbdq1s1pnnjsaye-.jpg?1578827319&amp;s=104af3cc6109eb777f3f518f776d8165
+[!] Error:: HTTP Error 403: Forbidden
+[%] Downloading Image #12 from https://i0.wp.com/www.pineconecottageretreat.com/wp-content/uploads/Depositphotos_3830886_xl-2015.jpg?fit=3504%2C2336&amp;ssl=1
+[%] File Downloaded !
+
+[%] Downloading Image #13 from https://freepngimg.com/thumb/apple_fruit/24454-5-apple-fruit-transparent-image.png
+[%] File Downloaded !
+
+[%] Downloading Image #14 from https://get.pxhere.com/photo/apple-plant-fruit-food-green-produce-fresh-healthy-snack-vitamin-nutrition-fruits-vegetarian-apples-raw-liqueur-diet-organic-flowering-plant-rose-family-slimming-fruit-salad-granny-smith-land-plant-manzana-verde-999971.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #15 from https://png.pngtree.com/png-clipart/20230126/original/pngtree-fresh-red-apple-png-image_8930987.png
+[%] File Downloaded !
+
+[%] Downloading Image #16 from https://idsb.tmgrup.com.tr/ly/uploads/images/2020/05/13/thumbs/800x531/35552.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #17 from https://wallpaperaccess.com/full/1351681.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #18 from https://www.gardeningknowhow.com/wp-content/uploads/2021/07/red-apple-fruit.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #19 from https://wallpaperaccess.com/full/1151801.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #20 from https://jooinn.com/images/red-apple-fruit-1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #21 from https://i.pinimg.com/originals/0d/37/89/0d378911c3837ff3eb579d8f894860ca.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #22 from https://www.pngkey.com/png/full/932-9328480_apples-png-image-red-apple-fruit.png
+[%] File Downloaded !
+
+[%] Downloading Image #23 from https://4.bp.blogspot.com/-op_n4eAEsf0/WS7xH8wmY6I/AAAAAAAACSU/KAIb4htTyXYSYg6lXwNp-1Qo3E7DW67AgCLcB/s1600/apple-fruit_www.fruitsname.com_.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #24 from https://images2.alphacoders.com/719/thumb-1920-719435.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #25 from https://i.pinimg.com/originals/c4/d9/ee/c4d9eefa0d4136938ed03c7359286f7a.png
+[%] File Downloaded !
+
+[%] Downloading Image #26 from https://wallpapercave.com/wp/wp2723042.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #27 from http://clipart-library.com/images/rTjrpjeyc.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #28 from https://png.pngtree.com/png-clipart/20230126/original/pngtree-red-fresh-apple-fruit-png-image_8931168.png
+[%] File Downloaded !
+
+[%] Downloading Image #29 from https://as1.ftcdn.net/v2/jpg/01/76/97/96/1000_F_176979696_hqfioFYq7pX13dmiu9ENrpsHZy1yM3Dt.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #30 from http://www.foodrepublic.com/wp-content/uploads/2013/09/glamorous-assorted-apples-pictures-hd-wallpaper-hd-pictures.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #31 from http://2.bp.blogspot.com/-M_Vmb930MtQ/T7pF_Pyx5bI/AAAAAAAABMM/Q_VtD-ILbig/s1600/apple2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #32 from http://images1.fanpop.com/images/image_uploads/Apples-fruit-1201901_1024_768.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #33 from https://images.heb.com/is/image/HEBGrocery/001511184-1?$article-235-square$
+[%] File Downloaded !
+
+
+
+[!!]Indexing page: 2
+
+[%] Indexed 95 Images on Page 2.
+
+===============================================
+
+[%] Downloading Image #34 from https://www.thespruce.com/thmb/LKeSW6Q_ZnOf5OZYH49yoAEBpes=/2128x1409/filters:fill(auto,1)/apple-tree-closeup-big-59430cd45f9b58d58aba34a1.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #35 from https://www.thespruce.com/thmb/d5XwbXpnRDcJQ4Tpl0bs9YN1F2Q=/2125x1411/filters:fill(auto,1)/GettyImages-88379634-50645b2ef0554f33af0a93478edda907.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #36 from https://www.familyhandyman.com/wp-content/uploads/2020/04/GettyImages-761604597.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #37 from https://thumbs.dreamstime.com/z/chinese-apple-tree-small-apples-heavenly-apples-close-up-autumn-beautiful-chinese-apple-tree-small-apples-heavenly-128953386.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #38 from https://cdn.britannica.com/77/76377-050-29C2322A/Apples-tree.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #39 from https://www.plants-wallpapers.com/plant/trees-apples-apple-orchard.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #40 from https://get.pxhere.com/photo/apple-plant-fruit-flower-orchard-ripe-food-red-produce-healthy-shrub-fruits-vitamins-frisch-apple-tree-rose-hip-flowering-plant-rose-family-acerola-malpighia-apple-variety-boskop-boskoop-leather-apples-rennet-culture-of-apple-land-plant-rose-order-chinese-hawthorn-schisandra-red-boskoop-winter-apples-891514.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #41 from http://ornamental-trees.co.uk/images/products/zoom/1278594462-37701500.jpg
+[!] Issue getting: http://ornamental-trees.co.uk/images/products/zoom/1278594462-37701500.jpg
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #41 from https://i.pinimg.com/736x/46/59/10/465910dfb32ce73e94f211582fd257cd.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #42 from https://www.thespruce.com/thmb/YwfgJC7Jt3fH78P-Zy0FCSrUet4=/5500x3670/filters:no_upscale():max_bytes(150000):strip_icc()/dwarf-fruit-trees-4588521-01-5dd100fb457a4bc8b3491fb7c54ad3b3.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #43 from http://static1.squarespace.com/static/548b6971e4b0af3bfe38cd6f/t/56a7d76c42f5526d030146c8/1462916503492/Fruit-Tree-Apple-Tree.jpg
+[!] Issue getting: http://static1.squarespace.com/static/548b6971e4b0af3bfe38cd6f/t/56a7d76c42f5526d030146c8/1462916503492/Fruit-Tree-Apple-Tree.jpg
+[!] Error:: HTTP Error 404: Not Found
+[%] Downloading Image #43 from http://wallsdesk.com/wp-content/uploads/2018/04/Apple-tree-Pictures.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #44 from http://treepicturesonline.com/apple-tree-image.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #45 from https://www.tahlequahlawncare.com/wp-content/uploads/2022/09/Apple-Trees.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #46 from http://fillyourplate.org/blog/wp-content/uploads/2014/08/bigstock-Ripe-apples-on-the-tree-51573631.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #47 from https://www.skh.com/wp-content/uploads/2022/03/shutterstock_1798373137-min-1-scaled.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #48 from https://www.thespruce.com/thmb/qtUuv_wFN9PMAkA3NW1_XIYkqUo=/5750x3825/filters:no_upscale():max_bytes(150000):strip_icc()/the-best-fruit-to-grow-4134299-05-7e00fb62471a4f848feace44dd207cf2.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #49 from https://www.gardeningknowhow.com/wp-content/uploads/2020/11/red-apples.jpg
+[%] File Downloaded !
+
+[%] Downloading Image #50 from https://wallpapercave.com/wp/1yLw5Oy.jpg
+[%] File Downloaded !
+
+
+
+[%] Done. Downloaded 50 images.
