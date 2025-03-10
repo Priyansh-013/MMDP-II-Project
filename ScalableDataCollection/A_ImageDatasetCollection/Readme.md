@@ -111,3 +111,13 @@ Variations in lighting conditions and angles may introduce bias into the model.
 - Applying data augmentation techniques to address lighting and angle variations.
 
 - Despite these limitations, the FruitVision Dataset remains a valuable resource for fruit classification and computer vision applications with proper preprocessing and curation.
+
+
+
+## Classification Results
+The following results are based on experiments conducted using the FruitVision Dataset:
+
+| Model Framework | Model Architecture | Validation Accuracy |
+|-----------------|--------------------|---------------------|
+| PyTorch         | Simple CNN         | **23.5 %** |
+| PyTorch         | Pre-trained Model  | **23.5 %** |
